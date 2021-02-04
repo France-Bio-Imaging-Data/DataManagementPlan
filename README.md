@@ -1,5 +1,4 @@
 # DataManagementPlan
-# DataManagementPlan
 
 
 Implemented in DataStewarship, waiting for iteration with the community before beeing set up on DMP Opidor.
