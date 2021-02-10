@@ -9,10 +9,10 @@ The second one is the model of FBI DMP, which is also expected to be filled by f
 Organisation of the project: 
 
 Questionnaire: read only until mi-february and last fixing/completion:
-https://dswc.fairwiki.france-bioinformatique.fr/projects/618654e4-a532-4c1d-8a7e-50808b2d27d9
+https://dswc.fairwiki.france-bioinformatique.fr/projects/d4e0a3ae-75cc-4178-80bf-d5ff3090aa42
 
 Document can then be generated with different format (it could be ANR template after alignment, or any other template) 
-https://dswc.fairwiki.france-bioinformatique.fr/projects/618654e4-a532-4c1d-8a7e-50808b2d27d9/documents
+https://dswc.fairwiki.france-bioinformatique.fr/projects/d4e0a3ae-75cc-4178-80bf-d5ff3090aa42/documents
 
 Comment on recommandations/fields and  report issues on this questionnaire here:
 https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues
