@@ -13,20 +13,9 @@ Nous souhaiterions que vous remplissiez /si vous souhaitez remplir un questionna
 Pour cela il fait obtenir un accès :  
 ![image](https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png)
 Une fois êtes logué, vous avez accès à l’ensemble des fonctionnalités de l’outil DSW (Data Stewardship Wizard) :
-
-![image](https://user-images.githubusercontent.com/19286219/115886496-457c1c80-a451-11eb-9d30-aaa4eacc82c1.png)
-
-Les « knowledge models » sont des formats pré-établis de questionnaires vides
-
-Les projets sont des questionnaires remplis ou en cours de remplissage à partir des « knowledge models » par chaque utilisateur possédant un accès.
-
-Les documents sont les fichiers extraits une fois les questionnaires complétés dans des formats standard : pdf, json…
-
-Les Templates sont des gabarits d’extraction : cad extraction de l’ensemble des champs ou d’une partie en fonction du type de besoin.
-
-Par ex : pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
-
-Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible.
+Menu | Description
+-----|--------
+ ![image](https://user-images.githubusercontent.com/19286219/115886496-457c1c80-a451-11eb-9d30-aaa4eacc82c1.png) | - Les **"Knowledge models"** sont des formats pré-établis de questionnaires vides - Les **"Projects"** sont des questionnaires remplis ou en cours de remplissage à partir des "knowledge models" par chaque utilisateur possédant un accès. * Les **"Documents"** sont les fichiers extraits une fois les questionnaires complétés dans des formats standard : pdf, json…  -Les **"Templates"** sont des gabarits d’extraction : cad extraction de l’ensemble des champs ou d’une partie en fonction du type de besoin. *Par ex : pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible.*
 
 Pour remplir votre propre questionnaire, procédez comme suit :
 Créez un nouveau projet : ![image](https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png) puis ![image](https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png)
@@ -45,4 +34,3 @@ Pour créer le document, choisir le menu
 ![image](https://user-images.githubusercontent.com/19286219/115886957-b91e2980-a451-11eb-9761-1f3babd10d3c.png)
 puis « Create ». Votre document est disponible dans votre environnement « Projet » :
 ![image](https://user-images.githubusercontent.com/19286219/115886995-c3402800-a451-11eb-828a-c3ddcb3d0087.png)
-
