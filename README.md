@@ -1,10 +1,9 @@
 # DataManagementPlan
 
 
-Implemented in DataStewarship, waiting for iteration with the community before beeing set up on DMP Opidor.
+DMP templates are implemented in  [Data Stewarship Wizard](https://ds-wizard.org/); once they have reached a sufficient maturity, they will be setup on [DMP OPIDoR](https://dmp.opidor.fr).
 
-There will be two results: one is the bricks to be sed for new template model, regarding imaging data. On opidor this will appear as recommandations/guidelines
-The second one is the model of FBI DMP, which is also expected to be filled by facilitie. they will be deposited as model of filled dmp on opidor.
+There will be two outcomes: the first one is a DMP template model for FBI and affiliated facilities. The second are the guidelines and recommandations that guide users in filling the DMP.
 
 Organisation of the project: 
 
@@ -21,12 +20,12 @@ https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues
 
 Contributors so far:
 
-Jean Salamero FBI
-Pauliette Liebly IFB
-Jean-Fançois Dufayard IFB
-Olivier Colin IFB
-Faisal Beckouche EMBRC
-Frederic De Lamotte IFB
-Fred Brau univ-nice
-Projet openlink 
-Equipe Opidor inist (MC Jacquemot)
+Faisal Beckouche EMBRC,
+Fred Brau Univ-Nice,
+Jean-Fançois Dufayard IFB,
+Frederic de Lamotte IFB,
+Paulette Lieby IFB,
+Perrine Paul-Gilloteaux FBI, 
+Jean Salamero FBI 
+
+
