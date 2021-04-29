@@ -21,10 +21,10 @@ https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues
 Contributors so far:
 
 Faisal Beckouche EMBRC,
-Fred Brau Univ-Nice,
+Frédéric Brau Univ-Nice,
 Christophe Bruley CEA,
 Jean-François Dufayard CIRAD,
-Frederic de Lamotte IFB,
+Frédéric de Lamotte INRAe,
 Paulette Lieby IFB,
 Perrine Paul-Gilloteaux FBI, 
 Jean Salamero FBI 
