@@ -22,7 +22,8 @@ Contributors so far:
 
 Faisal Beckouche EMBRC,
 Fred Brau Univ-Nice,
-Jean-François Dufayard IFB,
+Christophe Bruley CEA,
+Jean-François Dufayard CIRAD,
 Frederic de Lamotte IFB,
 Paulette Lieby IFB,
 Perrine Paul-Gilloteaux FBI, 
