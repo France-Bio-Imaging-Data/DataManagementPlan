@@ -3,7 +3,6 @@ Chers collègues,
 Vous avez mis en place une base de données d’images dans votre structure en ayant conscience que cela permet d’augmenter la traçabilité des données de la recherche en répondant de façon implicite au concept FAIR (https://www.go-fair.org/fair-principles/), soit « Facile à découvrir, Accessible, Interopérable, Réutilisable », qui est l’un des piliers de la science ouverte. La mise en place de Plans de Gestion de Données associés (PGD de structure) est la formalisation du processus de gestion de votre base de données décrivant les moyens permettant ainsi de les rendre ainsi visibles, accessibles, et réutilisables quel que soit le demandeur.
 Dans le but de vous faciliter la moisson de ces informations, un projet de « PGD structure bioimagerie », porté par et réalisé conjointement avec les Infrastructure Nationale en Biologie Santé (INBS) « France-BioImaging » (FBI), « Institut Français de Bioinformatique » (IFB), et « Centre National De Ressources Biologiques Marines » (EMBRC-France) est en cours d’élaboration.
 
-
 Cette architecture formera le tronc du PGD projet à destination des usagers de cette structure, permettant accessoirement que les champs idoines du PGD projet soient automatiquement renseignés par les informations déjà glanées en amont.
 Nous vous proposons de tester et nous donner votre avis sur le questionnaire générique élaboré, destiné à moissonner ces informations en entrée puis de générer des documents à façon en utilisant de « Templates » d’extraction.
 
@@ -56,14 +55,22 @@ Vous avez maintenant accès aux différents champs à compléter dans
 ![image](https://user-images.githubusercontent.com/19286219/115886786-8ecc6c00-a451-11eb-9f2e-a8db285a66a3.png)<br><br>
 ![image](https://user-images.githubusercontent.com/19286219/115886757-87a55e00-a451-11eb-92a5-686bd533f4cd.png)
 
-![image](https://user-images.githubusercontent.com/19286219/115886792-925ff300-a451-11eb-971c-07df155dbce6.png)
-Une fois complété ou lors du remplissage vous pouvez à tout moment choisir le format d’extraction et le « Template » IFBxxxxx dans ![image](https://user-images.githubusercontent.com/19286219/115886841-9f7ce200-a451-11eb-881a-5adc397d6546.png)
+![image](https://user-images.githubusercontent.com/19286219/115886792-925ff300-a451-11eb-971c-07df155dbce6.png)<br><br>
+
+<h1><strong>CHOISIR LE FORMAT D'EXTRACTION</h1></strong><br>
+
+Une fois complété ou lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction et le « Template » IFBxxxxx dans 
+
+![image](https://user-images.githubusercontent.com/19286219/115886841-9f7ce200-a451-11eb-881a-5adc397d6546.png)
 
 ![image](https://user-images.githubusercontent.com/19286219/115886864-a6a3f000-a451-11eb-98eb-8de6d8829769.png)
-Pour créer le document, choisir le menu 
+
+<h1><strong>CREER UN DOCUMENT</h1></strong><br>
+choisir le menu 
+
 ![image](https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png)![image](https://user-images.githubusercontent.com/19286219/115886934-b4597580-a451-11eb-8171-0dcf8e057c92.png)
 
-![image](https://user-images.githubusercontent.com/19286219/115886957-b91e2980-a451-11eb-9761-1f3babd10d3c.png)
-puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » :
+![image](https://user-images.githubusercontent.com/19286219/115886957-b91e2980-a451-11eb-9761-1f3babd10d3c.png)<br><br>
+puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » : <br><br>
 ![image](https://user-images.githubusercontent.com/19286219/115886995-c3402800-a451-11eb-828a-c3ddcb3d0087.png)
 
