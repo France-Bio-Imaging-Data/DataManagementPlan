@@ -58,9 +58,7 @@ Votre projet est maintenant disponible dans ![image](https://user-images.githubu
 Vous avez maintenant accès aux différents champs à compléter dans
 
 ![image](https://user-images.githubusercontent.com/19286219/115886786-8ecc6c00-a451-11eb-9f2e-a8db285a66a3.png)<br><br>
-![image](https://user-images.githubusercontent.com/19286219/115886757-87a55e00-a451-11eb-92a5-686bd533f4cd.png)
-
-![image](https://user-images.githubusercontent.com/19286219/115886792-925ff300-a451-11eb-971c-07df155dbce6.png)<br><br>
+![QUESTIONNAIRE](https://user-images.githubusercontent.com/84018042/117865418-3d680d80-b296-11eb-8657-aca5c4352c6a.png)
 
 <h1><strong>CHOISIR LE FORMAT D'EXTRACTION</h1></strong><br>
 
