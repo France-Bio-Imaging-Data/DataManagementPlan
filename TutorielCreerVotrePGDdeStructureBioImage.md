@@ -23,6 +23,11 @@ Vous pouvez avoir un aperçu complet du questionnaire non éditable à cette adr
 Par ex : pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
 
 Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible.
+
+<h1><strong>WORKFLOW</h1></strong><br>
+
+![DSW Workflow-01](https://user-images.githubusercontent.com/84018042/117854529-de040080-b289-11eb-8f60-261520e1f194.png)
+
 <h1><strong>AUTHENTIFICATION</h1></strong><br>
 
 Il existe 4 rôles différents pour un profil utilisateur :<br>   
