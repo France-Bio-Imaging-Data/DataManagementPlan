@@ -50,7 +50,7 @@ Pour remplir votre propre questionnaire, procédez comme suit :<br>
 
 ![image](https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png) puis ![image](https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png)
 
-![image](https://user-images.githubusercontent.com/19286219/115886699-7bb99c00-a451-11eb-8fcb-57d8f44b7a7f.png)<br>
+![CREATE PROJECT](https://user-images.githubusercontent.com/84018042/117863476-1a3c5e80-b294-11eb-82a8-ea8b803de1fd.png)<br>
 Puis nommez votre projet comme suit PGD_« Nom de votre labo ou plateforme » en utilisant le « knowledge model » : Bioimagexxxx, sauvez.
 Votre projet est maintenant disponible dans ![image](https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png)<br><br>
 
