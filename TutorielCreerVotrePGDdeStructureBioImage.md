@@ -41,13 +41,21 @@ Vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW (Data St
 ![image](https://user-images.githubusercontent.com/19286219/115886496-457c1c80-a451-11eb-9d30-aaa4eacc82c1.png)
 
 Pour remplir votre propre questionnaire, procédez comme suit :<br>
+
 <h1><strong>CREER UN PROJET</h1></strong><br>
-Créez un nouveau projet : ![image](https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png) puis ![image](https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png)
-Puis nommez votre projet comme suit PGD_« Nom de votre labo ou plateforme » en utilisant le « knowledge model » : Bioimagexxxx, sauvez
-![image](https://user-images.githubusercontent.com/19286219/115886699-7bb99c00-a451-11eb-8fcb-57d8f44b7a7f.png)
-Votre projet est disponible dans ![image](https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png)
+
+![image](https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png) puis ![image](https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png)
+
+![image](https://user-images.githubusercontent.com/19286219/115886699-7bb99c00-a451-11eb-8fcb-57d8f44b7a7f.png)<br>
+Puis nommez votre projet comme suit PGD_« Nom de votre labo ou plateforme » en utilisant le « knowledge model » : Bioimagexxxx, sauvez.
+Votre projet est maintenant disponible dans ![image](https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png)<br><br>
+
+<h1><strong>REMPLISSAGE DU QUESTIONNAIRE</h1></strong><br>
+Vous avez maintenant accès aux différents champs à compléter dans
+
+![image](https://user-images.githubusercontent.com/19286219/115886786-8ecc6c00-a451-11eb-9f2e-a8db285a66a3.png)<br><br>
 ![image](https://user-images.githubusercontent.com/19286219/115886757-87a55e00-a451-11eb-92a5-686bd533f4cd.png)
-Vous avez maintenant accès aux différents champs à compléter dans ![image](https://user-images.githubusercontent.com/19286219/115886786-8ecc6c00-a451-11eb-9f2e-a8db285a66a3.png)
+
 ![image](https://user-images.githubusercontent.com/19286219/115886792-925ff300-a451-11eb-971c-07df155dbce6.png)
 Une fois complété ou lors du remplissage vous pouvez à tout moment choisir le format d’extraction et le « Template » IFBxxxxx dans ![image](https://user-images.githubusercontent.com/19286219/115886841-9f7ce200-a451-11eb-881a-5adc397d6546.png)
 
@@ -56,6 +64,6 @@ Pour créer le document, choisir le menu
 ![image](https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png)![image](https://user-images.githubusercontent.com/19286219/115886934-b4597580-a451-11eb-8171-0dcf8e057c92.png)
 
 ![image](https://user-images.githubusercontent.com/19286219/115886957-b91e2980-a451-11eb-9761-1f3babd10d3c.png)
-puis « Create ». Votre document est disponible dans votre environnement « Projet » :
+puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » :
 ![image](https://user-images.githubusercontent.com/19286219/115886995-c3402800-a451-11eb-828a-c3ddcb3d0087.png)
 
