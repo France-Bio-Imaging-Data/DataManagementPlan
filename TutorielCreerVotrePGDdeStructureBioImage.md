@@ -7,14 +7,29 @@ Dans le but de vous faciliter la moisson de ces informations, un projet de « PG
 Cette architecture formera le tronc du PGD projet à destination des usagers de cette structure, permettant accessoirement que les champs idoines du PGD projet soient automatiquement renseignés par les informations déjà glanées en amont.
 Nous vous proposons de tester et nous donner votre avis sur le questionnaire générique élaboré, destiné à moissonner ces informations en entrée puis de générer des documents à façon en utilisant de « Templates » d’extraction.
 
-Vous pouvez avoir un aperçu complet du questionnaire non éditable à cette adresse : https://dsw.france-bioinformatique.fr/projects/c59841dd-ca42-49fe-90da-6412cf9dd3bf
+Vous pouvez avoir un aperçu complet du questionnaire non éditable à cette adresse : https://dsw.france-bioinformatique.fr/projects/c59841dd-ca42-49fe-90da-6412cf9dd3bf<br><br>
 
+<h1><strong>TERMINOLOGIE</h1></strong><br>
+
+<strong>Les « knowledge models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
+
+<strong>Les Questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir.
+
+<strong> Les projets </strong> : questionnaires remplis ou en cours de remplissage à partir des « knowledge models » par chaque utilisateur possédant un accès.
+
+<strong>Les documents </strong> : fichiers extraits une fois les questionnaires complétés dans des formats standard : pdf, json…
+
+<strong>Les Templates </strong> : gabarits d’extraction : cad extraction de l’ensemble des champs ou d’une partie en fonction du type de besoin.
+
+Par ex : pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
+
+Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible.
 <h1><strong>AUTHENTIFICATION</h1></strong><br>
-Il existe 4 rôles différents pour un profil utilisateur :<br><br>     
+
+Il existe 4 rôles différents pour un profil utilisateur :<br>   
 <strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Il peut s'inscrire, se connecter ou récupérer son mot de passe si vous l'avez oublié.<br><br>
-<strong>Researcher</strong> : ce rôle est attribué par défaut aux utilisateurs après leur inscription. Nous partirons du principe que seuls les administrateurs pourront modifier ces rôles.
-               Cet utilisateur travaille sur un projet scientifique et a les connaissances sur le projet en question. Son objectif est d'obtenir un plan de gestion des données
-               FAIR.<br><br>        
+<strong>Researcher</strong> : ce rôle est attribué par défaut aux utilisateurs après leur inscription. Nous partirons du principe que seuls les administrateurs pourront modifier ces rôles. Cet utilisateur travaille sur un projet scientifique et a les connaissances sur le projet en question. Son objectif est d'obtenir un plan de gestion des données
+               FAIR.<br>    
 <strong>Steward</strong> : utilisateur qui a une bonne connaissance de l'outil DSW. I peut créer  des « knowledge models ». Ceux-ci sont ensuite utilisé par les scientifiques (ayant le rôle de Researcher) pour créer le DMP avec le questionnaire.<br><br>
 <strong>Administrator</strong> : Il gère les paramètres généraux et dispose des privilèges les plus élevés.<br><br>  
    
@@ -25,19 +40,8 @@ Vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW (Data St
 
 ![image](https://user-images.githubusercontent.com/19286219/115886496-457c1c80-a451-11eb-9d30-aaa4eacc82c1.png)
 
-Les « knowledge models » sont des formats pré-établis de questionnaires vides
-
-Les projets sont des questionnaires remplis ou en cours de remplissage à partir des « knowledge models » par chaque utilisateur possédant un accès.
-
-Les documents sont les fichiers extraits une fois les questionnaires complétés dans des formats standard : pdf, json…
-
-Les Templates sont des gabarits d’extraction : cad extraction de l’ensemble des champs ou d’une partie en fonction du type de besoin.
-
-Par ex : pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
-
-Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible.
-
-Pour remplir votre propre questionnaire, procédez comme suit :
+Pour remplir votre propre questionnaire, procédez comme suit :<br>
+<h1><strong>CREER UN PROJET</h1></strong><br>
 Créez un nouveau projet : ![image](https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png) puis ![image](https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png)
 Puis nommez votre projet comme suit PGD_« Nom de votre labo ou plateforme » en utilisant le « knowledge model » : Bioimagexxxx, sauvez
 ![image](https://user-images.githubusercontent.com/19286219/115886699-7bb99c00-a451-11eb-8fcb-57d8f44b7a7f.png)
