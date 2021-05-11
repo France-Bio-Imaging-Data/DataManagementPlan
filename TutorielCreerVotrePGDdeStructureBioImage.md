@@ -73,7 +73,7 @@ choisir le menu
 
 ![image](https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png)![image](https://user-images.githubusercontent.com/19286219/115886934-b4597580-a451-11eb-8171-0dcf8e057c92.png)
 
-![image](https://user-images.githubusercontent.com/19286219/115886957-b91e2980-a451-11eb-9761-1f3babd10d3c.png)<br><br>
+![DOCUMENT](https://user-images.githubusercontent.com/84018042/117866038-f3335c00-b296-11eb-9ff2-2006c3fd7568.png)<br><br>
 puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » : <br><br>
 ![image](https://user-images.githubusercontent.com/19286219/115886995-c3402800-a451-11eb-828a-c3ddcb3d0087.png)
 
