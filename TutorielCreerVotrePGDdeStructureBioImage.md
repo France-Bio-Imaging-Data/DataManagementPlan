@@ -9,11 +9,19 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 
 Vous pouvez avoir un aperçu complet du questionnaire non éditable à cette adresse : https://dsw.france-bioinformatique.fr/projects/c59841dd-ca42-49fe-90da-6412cf9dd3bf
 
-Nous souhaiterions que vous remplissiez /si vous souhaitez remplir un questionnaire 
-<h1><strong>AUTHENTIFICATION</h1></strong>
-Pour cela il fait obtenir un accès :  
-![image](https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png)
-Une fois êtes logué, vous avez accès à l’ensemble des fonctionnalités de l’outil DSW (Data Stewardship Wizard) :
+<h1><strong>AUTHENTIFICATION</h1></strong><br>
+Il existe 4 rôles différents pour un profil utilisateur :<br><br>     
+<strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Il peut s'inscrire, se connecter ou récupérer son mot de passe si vous l'avez oublié.<br><br>
+<strong>Researcher</strong> : ce rôle est attribué par défaut aux utilisateurs après leur inscription. Nous partirons du principe que seuls les administrateurs pourront modifier ces rôles.
+               Cet utilisateur travaille sur un projet scientifique et a les connaissances sur le projet en question. Son objectif est d'obtenir un plan de gestion des données
+               FAIR.<br><br>        
+<strong>Steward</strong> : utilisateur qui a une bonne connaissance de l'outil DSW. I peut créer  des « knowledge models ». Ceux-ci sont ensuite utilisé par les scientifiques (ayant le rôle de Researcher) pour créer le DMP avec le questionnaire.<br><br>
+<strong>Administrator</strong> : Il gère les paramètres généraux et dispose des privilèges les plus élevés.<br><br>  
+   
+
+Après avir obtenu un accès :  <br>
+![image](https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png)<br>
+Vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW (Data Stewardship Wizard) :
 
 ![image](https://user-images.githubusercontent.com/19286219/115886496-457c1c80-a451-11eb-9d30-aaa4eacc82c1.png)
 
