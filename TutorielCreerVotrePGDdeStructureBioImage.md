@@ -10,6 +10,7 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 Vous pouvez avoir un aperçu complet du questionnaire non éditable à cette adresse : https://dsw.france-bioinformatique.fr/projects/c59841dd-ca42-49fe-90da-6412cf9dd3bf
 
 Nous souhaiterions que vous remplissiez /si vous souhaitez remplir un questionnaire 
+<h1><strong>AUTHENTIFICATION</h1></strong>
 Pour cela il fait obtenir un accès :  
 ![image](https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png)
 Une fois êtes logué, vous avez accès à l’ensemble des fonctionnalités de l’outil DSW (Data Stewardship Wizard) :
