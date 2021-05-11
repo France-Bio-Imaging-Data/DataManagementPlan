@@ -66,7 +66,7 @@ Une fois complété ou lors du remplissage du questionnaire vous pouvez à tout 
 
 ![image](https://user-images.githubusercontent.com/19286219/115886841-9f7ce200-a451-11eb-881a-5adc397d6546.png)
 
-![image](https://user-images.githubusercontent.com/19286219/115886864-a6a3f000-a451-11eb-98eb-8de6d8829769.png)
+![TEMPLATE](https://user-images.githubusercontent.com/84018042/117865787-9df74a80-b296-11eb-8e1c-3ff70c419b0f.png)
 
 <h1><strong>CREER UN DOCUMENT</h1></strong><br>
 choisir le menu 
