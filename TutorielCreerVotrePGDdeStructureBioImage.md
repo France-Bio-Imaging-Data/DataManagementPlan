@@ -75,5 +75,5 @@ choisir le menu
 
 ![DOCUMENT](https://user-images.githubusercontent.com/84018042/117866038-f3335c00-b296-11eb-9ff2-2006c3fd7568.png)<br><br>
 puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » : <br><br>
-![image](https://user-images.githubusercontent.com/19286219/115886995-c3402800-a451-11eb-828a-c3ddcb3d0087.png)
+![DOC2](https://user-images.githubusercontent.com/84018042/117866324-4c02f480-b297-11eb-9afc-06593d5f897f.png)
 
