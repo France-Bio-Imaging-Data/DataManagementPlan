@@ -28,7 +28,7 @@ Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans 
 
 ![DSW Workflow-03](https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png)
 
-<h1><strong>AUTHENTIFICATION</h1></strong><br>
+<h1><strong>PROFILS UTILISATEURS</h1></strong><br>
 
 Il existe 4 rôles différents pour un profil utilisateur :<br>   
 <strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Il peut s'inscrire, se connecter ou récupérer son mot de passe si vous l'avez oublié.<br><br>
