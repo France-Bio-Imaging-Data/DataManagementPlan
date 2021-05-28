@@ -11,9 +11,10 @@ Vous pouvez avoir un aperçu complet du questionnaire non éditable à cette adr
 
 <h1><strong>COMMENT CONTRIBUER?</h1></strong><br>
 Pour participer à la création de ce PGD Structure productrice d'imagerie, trois propositions:<br>  
-<li> Vous pouvez consulter sans connection le questionnaire non éditable (rappel du lien) et faire remonter vos remarques/questions ici https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues. Si vous n'avez pas de compte gitlab, il vous faudra [créer un compte](https://gitlab.com/users/sign_up)  pour soumettre vos questions/problèmes/suggestions d'améliorations, dont vous pourrez également suivre l'évolution de traitement.  <br>  
+<br>
+<li> Vous pouvez consulter sans être identifié le questionnaire non éditable (rappel du lien) et faire remonter vos remarques/questions ici https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues. Si vous n'avez pas de compte gitlab, il vous faudra [créer un compte](https://gitlab.com/users/sign_up)  pour soumettre vos questions/problèmes/suggestions d'améliorations, dont vous pourrez également suivre l'évolution de traitement. </li> <br>  
 
-<li>Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront par défaut privées sauf si vous décider de les paratger, voir le paragraphe "Partager". Pour cela nous vous invitons à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous DSW](https://dsw.france-bioinformatique.fr/signup). Vous utiliserez également  https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues avec un compte gitlab pour vos suggestions. <br>  
+<li>Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront par défaut privées sauf si vous décider de les paratger, voir le paragraphe "Partager". Pour cela nous vous invitons à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous DSW](https://dsw.france-bioinformatique.fr/signup). Vous utiliserez également  https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues avec un compte gitlab pour vos suggestions.</li> <br>  
 
 <h1><strong>TERMINOLOGIE</h1></strong><br>
 
