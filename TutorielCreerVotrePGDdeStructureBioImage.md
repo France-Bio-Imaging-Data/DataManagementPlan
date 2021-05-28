@@ -10,10 +10,10 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 Vous pouvez avoir un aperçu complet du questionnaire non éditable à cette adresse : https://dsw.france-bioinformatique.fr/projects/c59841dd-ca42-49fe-90da-6412cf9dd3bf<br><br>
 
 <h1><strong>COMMENT CONTRIBUER?</h1></strong><br>
-Pour participer à la création de ce PGD Structure productrice d'imagerie:
-Deux solutions: consulter sans conection e formulare suivat et faire remonter vos remarques questions à lien GITlab (), (il vous faut créer un compte pour soumettre vos qustions/problèmes) 
+Pour participer à la création de ce PGD Structure productrice d'imagerie:<br>  
+Deux solutions: consulter sans conection e formulare suivat et faire remonter vos remarques questions à lien GITlab (), (il vous faut créer un compte pour soumettre vos qustions/problèmes) <br>  
 
-Vous pouvez ausi tester l'outil pour céer vos propres templates , en suvant le workflow proposé ci-dessous.
+Vous pouvez ausi tester l'outil pour céer vos propres templates , en suvant le workflow proposé ci-dessous.<br>  
 
 <h1><strong>TERMINOLOGIE</h1></strong><br>
 
