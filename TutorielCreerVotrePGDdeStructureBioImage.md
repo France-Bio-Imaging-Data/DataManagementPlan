@@ -10,7 +10,7 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 Vous pouvez avoir un aperçu complet du questionnaire non éditable à cette adresse : https://dsw.france-bioinformatique.fr/projects/c59841dd-ca42-49fe-90da-6412cf9dd3bf<br><br>
 
 <h1><strong>COMMENT CONTRIBUER?</h1></strong><br>
-Pour participer à la création de ce PGD Structure productrice d'imagerie, trois propositions:<br>  
+Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions:<br>  
 <br>
 <li> Vous pouvez consulter sans être identifié le questionnaire non éditable (rappel du lien) et faire remonter vos remarques/questions ici https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues. Si vous n'avez pas de compte gitlab, il vous faudra [créer un compte](https://gitlab.com/users/sign_up)  pour soumettre vos questions/problèmes/suggestions d'améliorations, dont vous pourrez également suivre l'évolution de traitement. </li> <br>  
 
