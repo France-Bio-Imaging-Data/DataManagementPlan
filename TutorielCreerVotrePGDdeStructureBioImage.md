@@ -7,7 +7,13 @@ Cette initiative à destination des usagers de votre structure facilitera d'une 
 
 Nous vous proposons de tester et nous donner votre avis sur le questionnaire générique, dédié à l'imagerie, destiné à moissonner ces informations en entrée puis de générer des documents à façon en utilisant des « Templates » d’extraction. <br><br>
 
-<h2><strong> COMMENT CONTRIBUER?</h2></strong><br>
+[Comment contribuer?](#contribuer)<br> 
+[Terminologie](#terminologie)<br> 
+[Profils Utilisateurs](#profil)<br> 
+[Workflow](#workflow)<br> 
+[Questions-Réponses](#faq)<br> 
+
+<h2><strong> COMMENT CONTRIBUER?</h2></strong><a id="contribuer"></a><br> 
 Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions:<br>  
 <br>  
 
@@ -21,7 +27,7 @@ Vous pourrez également suivre l'évolution de traitement en notant le lien donn
 
 * Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe "Partager". Pour cela nous vous invitons, avec un statut de "Researcher" à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de feedback sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab.
 
-<h2><strong>TERMINOLOGIE</h2></strong><br>
+<h2><strong>TERMINOLOGIE</h2></strong><a id="terminologie"></a><br> 
 
 ![Presentationrelationdocuments](https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png)
 
@@ -39,12 +45,12 @@ Par ex : pour les gestionnaires de base de données le gabarit par défaut perme
 
 Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible.
 
-<h2><strong>WORKFLOW</h2></strong><br>
+<h2><strong>WORKFLOW</h2></strong><a id="workflow"></a><br>
 
 
 ![DSW Workflow-03](https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png)
 
-<h2><strong>PROFILS UTILISATEURS</h2></strong><br>
+<h2><strong>PROFILS UTILISATEURS</h2></strong><a id="profil"></a><br>
 
 Il existe 4 rôles différents pour un profil utilisateur :<br>   
 <strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Il peut s'inscrire, se connecter ou récupérer son mot de passe si vous l'avez oublié.<br><br>
@@ -96,3 +102,6 @@ Choisir le menu
 
 puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » : <br><br>
 ![image](https://user-images.githubusercontent.com/60437839/120228238-052b6d80-c24b-11eb-8521-746a8c415e9c.png)
+
+<h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
+
