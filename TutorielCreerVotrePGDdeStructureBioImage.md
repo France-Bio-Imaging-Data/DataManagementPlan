@@ -24,8 +24,11 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 Vous pourrez également suivre l'évolution de traitement en notant le lien donné après que vous ayez envoyer votre remarque:
 <img width="282" alt="CaptureFeedback2" src="https://user-images.githubusercontent.com/19286219/125419936-3a02fa81-abfe-480a-85c3-edec70fb6a89.PNG">
 
+La liste des problèmes déjà remontés est consultable [ici](https://github.com/froggypaule/maDMP-bioimage/issues)
 
-* Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe "Partager". Pour cela nous vous invitons, avec un statut de "Researcher" à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de feedback sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab.
+* Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe "Partager". Pour cela nous vous invitons, avec un statut de "Researcher" à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de feedback sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab. 
+
+
 
 <h2><strong>TERMINOLOGIE</h2></strong><a id="terminologie"></a><br> 
 
