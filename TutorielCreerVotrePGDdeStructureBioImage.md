@@ -16,6 +16,8 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 
 <h2><strong>TERMINOLOGIE</h2></strong><br>
 
+![Presentationrelationdocuments](https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png)
+
 * <strong>Les « knowledge models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
 
 * <strong>Les Questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir.
@@ -31,6 +33,7 @@ Par ex : pour les gestionnaires de base de données le gabarit par défaut perme
 Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible.
 
 <h2><strong>WORKFLOW</h2></strong><br>
+
 
 ![DSW Workflow-03](https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png)
 
