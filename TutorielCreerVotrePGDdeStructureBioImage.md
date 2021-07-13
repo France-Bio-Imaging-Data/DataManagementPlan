@@ -9,6 +9,7 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 
 <h2><strong> COMMENT CONTRIBUER?</h2></strong><br>
 Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions:<br>  
+<br>  
 
 * Vous pouvez consulter sans être identifié [un questionnaire non éditable](https://dsw.france-bioinformatique.fr/projects/c59841dd-ca42-49fe-90da-6412cf9dd3bf) et faire remonter vos remarques/questions en utilisant la fonctionnalité "Feedback" pour soumettre vos questions/problèmes/suggestions d'améliorations, en cliquant sur le point d'exclamation à côté des questions:
 
