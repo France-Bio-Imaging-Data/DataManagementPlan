@@ -4,6 +4,7 @@
 DMP templates are implemented in  [Data Stewarship Wizard](https://ds-wizard.org/); once they have reached a sufficient maturity, they will be setup on [DMP OPIDoR](https://dmp.opidor.fr).
 
 There will be two outcomes: the first one is a DMP template model for FBI and affiliated facilities. The second are the guidelines and recommandations that guide users in filling the DMP.
+A tutorial (in french) is available in this repository.
 
 Organisation of the project: 
 
