@@ -105,3 +105,5 @@ puis « Create ». Votre document est maintenant disponible dans votre environne
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
 
+* <strong>Quelle différence entre les PGDs Structure et les PGDs Projets ? </strong> Un PGD structure décrit la gestion des données pour une structure, suivant les types de données. Il n'est pas associé à des dates. Un PGD projet est associé à un projet scientifique, il est associé à un planning de réalisation, avec des dates. Le PGD Structure peut permettre de remplir un PGD projet, lorsque le projet utilise une structure productrice de données. Voir aussi le document SchemaRelationPGDs.pdf.<br>
+* <strong>Pourquoi ne pas utiliser DMP OPIDOR? </strong>  Nous utilisons dans le cadre de ce projet DSW pour ses fonctionnalités de travail collaboratif et sa visibilité et utilisation européenne. DMP Opidor présente lui l'avantage d'une interface beaucoup plus simple pour l'utilisateur. Un recrutement est en cours pour permettre les transferts de DMP d'une solution à une autre, notre but est de déposer les versions finalisées après ce travail collaboratif sur DMP OPIDOR. <br>
