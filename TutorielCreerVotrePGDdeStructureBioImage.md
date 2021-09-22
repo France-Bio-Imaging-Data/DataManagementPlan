@@ -11,6 +11,7 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 [Terminologie](#terminologie)<br> 
 [Profils Utilisateurs](#profil)<br> 
 [Workflow](#workflow)<br> 
+[Partager](#partager)<br> 
 [Questions-Réponses](#faq)<br> 
 
 <h2><strong> COMMENT CONTRIBUER?</h2></strong><a id="contribuer"></a><br> 
@@ -105,6 +106,8 @@ Choisir le menu
 
 puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » : <br><br>
 ![image](https://user-images.githubusercontent.com/60437839/120228238-052b6d80-c24b-11eb-8521-746a8c415e9c.png)
+
+<h2><strong>Partager votre document ou votre projet</h2></strong><a id="partager"></a><br>
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
 
