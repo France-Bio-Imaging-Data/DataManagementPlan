@@ -89,6 +89,8 @@ Vous avez maintenant accès aux différents champs à compléter dans
 ![image](https://user-images.githubusercontent.com/19286219/115886786-8ecc6c00-a451-11eb-9f2e-a8db285a66a3.png)<br><br>
 ![QUESTIONNAIRE](https://user-images.githubusercontent.com/84018042/117865418-3d680d80-b296-11eb-8657-aca5c4352c6a.png)
 
+Conseil : Pour ajouter des champs de réponse, par exemple ajouter des types d'équipements il faut utiliser le bouton "Add" pour ajouter la rubrique complète.
+
 <h2><strong>CHOISIR LE FORMAT D'EXTRACTION</h2></strong><br>
 
 Une fois complété ou lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction et le « Template » IFBxxxxx dans 
