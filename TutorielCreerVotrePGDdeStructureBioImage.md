@@ -117,7 +117,7 @@ Pour accéder aux options du menu "SHARE", appuyez sur le bouton en haut à droi
 
 Vous avez ensuite la possibilité de partager vos projets avec vos collègues, qu'ils disposent ou non d'un compte utilisateur DSW. En outre, vous pouvez également définir leurs droits d'accès et leur permettre de visualiser, de modifier ou même de s'approprier le projet.
 
-![SHARE-PROJECT](https://user-images.githubusercontent.com/84018042/134766510-79cd1c4f-5417-4d39-af69-5caa53d1df4c.jpg)
+![SHARE-PROJECT](https://user-images.githubusercontent.com/84018042/134766569-926abe31-489b-4fce-ba96-3da81f9a56c2.jpg)
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
 
