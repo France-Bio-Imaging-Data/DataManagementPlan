@@ -112,6 +112,7 @@ puis « Create ». Votre document est maintenant disponible dans votre environne
 <h2><strong> PARTAGER UN PROJET OU UN DOCUMENT</h2></strong><a id="partager"></a><br>
 Choisir l'onglet PROJET, puis selectionner le projet que vous voulez partager.
 Pour accéder aux options du menu "SHARE", appuyez sur le bouton en haut à droite. 
+https://github.com/France-Bio-Imaging-Data/DataManagementPlan/issues/5#issue-1007031015
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
 
