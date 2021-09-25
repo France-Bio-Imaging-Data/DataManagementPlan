@@ -112,6 +112,7 @@ puis « Create ». Votre document est maintenant disponible dans votre environne
 <h2><strong> PARTAGER UN PROJET OU UN DOCUMENT</h2></strong><a id="partager"></a><br>
 Choisir l'onglet PROJET, puis selectionner le projet que vous voulez partager.
 Pour accéder aux options du menu "SHARE", appuyez sur le bouton en haut à droite. 
+
 ![SHARE-BUTTON](https://user-images.githubusercontent.com/84018042/134765728-b02acf41-dd3a-4d58-9b2c-84b63edc91a7.jpg)
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
