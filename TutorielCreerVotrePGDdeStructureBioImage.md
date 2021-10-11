@@ -40,9 +40,9 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 * <strong>Les documents </strong> : fichiers extraits une fois les questionnaires complétés dans des formats standard : pdf, json…
 
-* <strong>Les (output) templates </strong> : gabarits d’extraction ; : c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un document dans des formats divers (Word, JSON, HTML, ...). Par exemple, pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
+* <strong>Les (output) templates </strong> : gabarits d’extraction ; c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un document dans des formats divers (Word, JSON, HTML, ...). Par exemple, pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
 
-Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible à terme.
+
 
 <h2><strong>WORKFLOW</h2></strong><a id="workflow"></a><br>
 
