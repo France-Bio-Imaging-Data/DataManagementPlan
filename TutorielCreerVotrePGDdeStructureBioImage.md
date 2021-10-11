@@ -78,16 +78,19 @@ Par contre, il est probable que le PGD décrive plusieurs produits de la recherc
 
 <img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
 
-Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que nécéssaire. Ceci se repétera pour toute question. Vous avez maintenant accès aux différents champs à compléter dans
-
-![image](https://user-images.githubusercontent.com/19286219/115886786-8ecc6c00-a451-11eb-9f2e-a8db285a66a3.png)<br><br>
-![QUESTIONNAIRE](https://user-images.githubusercontent.com/84018042/117865418-3d680d80-b296-11eb-8657-aca5c4352c6a.png)
-
-Conseil : Pour ajouter des champs de réponse, par exemple ajouter des types d'équipements il faut utiliser le bouton "Add" pour ajouter la rubrique complète.
+Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que nécéssaire. Ceci se repétera pour toute question. Vous êtes prêts à completer le questionnaire. 
 
 <h2><strong>CHOISIR LE FORMAT D'EXTRACTION</h2></strong><br>
 
-Une fois complété ou lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction et le « Template » IFBxxxxx dans 
+Lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction, c'est à dire le « Output Template » ; ceci est nécéssaire si vous voulez soit "preview" le questionnaire, soit en créer un document. Pour cela, il faut renseigner l'onglet "Settings" du questionnaire :
+
+<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136821413-befa9fab-bd1b-4903-be6c-4455ab515bf4.png">
+
+Le mieux est de choisir "Questionnaire Report", qui est d'ailleurs celui qui est recommandé :
+
+<img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/136822515-45e4a09e-9cec-471d-9d25-7d0e8fccbf85.png">
+
+
 
 ![image](https://user-images.githubusercontent.com/19286219/115886841-9f7ce200-a451-11eb-881a-5adc397d6546.png)
 
