@@ -15,17 +15,19 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 [Questions-Réponses](#faq)<br> 
 
 <h2><strong> COMMENT CONTRIBUER?</h2></strong><a id="contribuer"></a><br> 
-Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions:<br>  
+Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions :<br>  
 <br>  
 
-* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/7824c1c4-616d-4571-84e1-9f279ec31857), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/f5378aa4-93d5-41d4-9223-db99754d6e29). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'option disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi ![Screenshot from 2021-10-11 14-43-11](https://user-images.githubusercontent.com/47455219/136792901-d4f03599-9a92-46b3-a6d2-51ca21864fae.png). En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé : ![Screenshot from 2021-10-11 14-47-49](https://user-images.githubusercontent.com/47455219/136793515-eca38e87-cd89-44d9-84a8-82949e945552.png). Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire.
+* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/7824c1c4-616d-4571-84e1-9f279ec31857), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/f5378aa4-93d5-41d4-9223-db99754d6e29). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'option disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi 
 
-<img width="633" alt="CaptureFeedback" src="https://user-images.githubusercontent.com/19286219/125419753-5e0a936c-74b3-4cff-a16f-0ec8c963ffa4.PNG">
+<img width="633" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/136796837-cde03c3f-5b73-4e03-8a91-4aaa5af3c571.png">
 
-Vous pourrez également suivre l'évolution de traitement en notant le lien donné après que vous ayez envoyer votre remarque:
-<img width="282" alt="CaptureFeedback2" src="https://user-images.githubusercontent.com/19286219/125419936-3a02fa81-abfe-480a-85c3-edec70fb6a89.PNG">
+En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé :
 
-La liste des problèmes déjà remontés est consultable [ici](https://github.com/froggypaule/maDMP-bioimage/issues)
+<img width="633" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/136796880-358e5e3d-949b-46dd-b3ea-6fb0f075353d.png">
+Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire.
+
+
 
 * Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe "Partager". Pour cela nous vous invitons, avec un statut de "Researcher" à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de feedback sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab. 
 
