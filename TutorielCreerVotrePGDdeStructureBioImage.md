@@ -20,11 +20,11 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 
 * Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/7824c1c4-616d-4571-84e1-9f279ec31857), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/f5378aa4-93d5-41d4-9223-db99754d6e29). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'option disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi 
 
-<img width="633" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/136796837-cde03c3f-5b73-4e03-8a91-4aaa5af3c571.png">
+<img width="1000" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/136796837-cde03c3f-5b73-4e03-8a91-4aaa5af3c571.png">
 
 En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé :
 
-<img width="633" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/136796880-358e5e3d-949b-46dd-b3ea-6fb0f075353d.png">
+<img width="1000" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/136796880-358e5e3d-949b-46dd-b3ea-6fb0f075353d.png">
 
 Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire.
 
@@ -32,7 +32,7 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 <h2><strong>TERMINOLOGIE</h2></strong><a id="terminologie"></a><br> 
 
-![Presentationrelationdocuments](https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png)
+<img width="1000" alt="Presentationrelationdocuments" src="https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png">
 
 * <strong>Les « knowledge models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
 
@@ -42,7 +42,7 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 <h2><strong>WORKFLOW</h2></strong><a id="workflow"></a><br>
 
-![DSW Workflow-03](https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png)
+<img width="700" alt="DSW Workflow-03" src="https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png">
 
 <h2><strong>PROFILS UTILISATEURS</h2></strong><a id="profil"></a><br>
 
@@ -54,24 +54,31 @@ Il existe 4 rôles différents pour un profil utilisateur :<br>
    
 <h2><strong>CREER UN PROJET</h2></strong><br>
 
-Après avoir obtenu un accès :  <br>
-![image](https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png)<br>
-Vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW :
+Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png">, Vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW :
+<img width="200" alt="dsw" src="https://user-images.githubusercontent.com/19286219/115886496-457c1c80-a451-11eb-9d30-aaa4eacc82c1.png">
 
-![image](https://user-images.githubusercontent.com/19286219/115886496-457c1c80-a451-11eb-9d30-aaa4eacc82c1.png)
-
-Pour remplir votre propre questionnaire, procédez comme suit :<br>
-
-![image](https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png) puis ![image](https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png)
+Pour remplir votre propre questionnaire, procédez comme suit : <img width="200" alt="remplir_a" src="https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png">, puis <img width="100" alt="remplir_b" src="https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png">
 
 <strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « knowledge model » : "Modèle de PGD structure pour la bioimagerie" (utilisez la version la plus récente i.e. avec le numéro de version le plus élevé):
 
-<img width="633" alt="create_project" src="https://user-images.githubusercontent.com/47455219/136813471-a4652b90-123d-4100-a717-164ff4d42798.png">
+<img width="1000" alt="create_project" src="https://user-images.githubusercontent.com/47455219/136813471-a4652b90-123d-4100-a717-164ff4d42798.png">
 
-Sauvegardez ; votre projet est maintenant disponible dans ![image](https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png)<br><br>
+Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">
 
 <h2><strong>REMPLISSAGE DU QUESTIONNAIRE</h2></strong><br>
-Vous avez maintenant accès aux différents champs à compléter dans
+La première chose est de le peupler par les questions désirées. Plus clairement, à la création du questionnaire, aucune question n'apparait :
+
+<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815048-33e403ce-3fca-4347-b848-dd92373e041d.png">
+
+Il va falloir ajouter les questions. Typiquement, une seule itération (c'est à dire, la question est de cardinalité 1) est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures seient concernées) :
+
+<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815619-b9d393e7-9900-4108-8732-603f0d899e7d.png">
+
+Par contre, il est probable que le PGD décrive plusieurs produits de la recherche :
+
+<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
+
+Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que nécéssaire. Ceci se repétera pour toute question. Vous avez maintenant accès aux différents champs à compléter dans
 
 ![image](https://user-images.githubusercontent.com/19286219/115886786-8ecc6c00-a451-11eb-9f2e-a8db285a66a3.png)<br><br>
 ![QUESTIONNAIRE](https://user-images.githubusercontent.com/84018042/117865418-3d680d80-b296-11eb-8657-aca5c4352c6a.png)
