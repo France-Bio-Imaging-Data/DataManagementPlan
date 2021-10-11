@@ -36,16 +36,11 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 * <strong>Les « knowledge models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
 
-* <strong>Les projets ou questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir. 
+* <strong>Les projets ou questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir.
 
-* <strong>Les documents </strong> : fichiers extraits une fois les questionnaires complétés dans des formats standard : pdf, json…
-
-* <strong>Les (output) templates </strong> : gabarits d’extraction ; c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un document dans des formats divers (Word, JSON, HTML, ...). Par exemple, pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
-
-
+* <strong>Les (output) templates </strong> : gabarits d’extraction ; c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un <strong>document</strong> dans des formats divers (Word, JSON, HTML, ...). Par exemple, pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
 
 <h2><strong>WORKFLOW</h2></strong><a id="workflow"></a><br>
-
 
 ![DSW Workflow-03](https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png)
 
