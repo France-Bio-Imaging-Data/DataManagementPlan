@@ -25,13 +25,10 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé :
 
 <img width="633" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/136796880-358e5e3d-949b-46dd-b3ea-6fb0f075353d.png">
-Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire.
 
+Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire.
 
-
-* Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe "Partager". Pour cela nous vous invitons, avec un statut de "Researcher" à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de feedback sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab. 
-
-
+* Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe "Partager". Pour cela nous vous invitons, avec un statut de "Researcher" à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab. 
 
 <h2><strong>TERMINOLOGIE</h2></strong><a id="terminologie"></a><br> 
 
@@ -39,17 +36,13 @@ Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les dével
 
 * <strong>Les « knowledge models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
 
-* <strong>Les Questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir.
-
-* <strong> Les projets </strong> : questionnaires remplis ou en cours de remplissage à partir des « knowledge models » par chaque utilisateur possédant un accès.
+* <strong>Les projets ou questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir. 
 
 * <strong>Les documents </strong> : fichiers extraits une fois les questionnaires complétés dans des formats standard : pdf, json…
 
-*  <strong>Les Templates </strong> : gabarits d’extraction : cad extraction de l’ensemble des champs ou d’une partie en fonction du type de besoin.
+* <strong>Les (output) templates </strong> : gabarits d’extraction ; : c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un document dans des formats divers (Word, JSON, HTML, ...). Par exemple, pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
 
-Par ex : pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
-
-Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible.
+Pour un chef d’équipe qui a besoin de décrire la gestion de ses images dans le cadre d’un PGD de projet, un gabarit spécifique sera disponible à terme.
 
 <h2><strong>WORKFLOW</h2></strong><a id="workflow"></a><br>
 
