@@ -38,7 +38,7 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 * <strong>Les projets ou questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir.
 
-* <strong>Les (output) templates </strong> : gabarits d’extraction ; c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un <strong>document</strong> dans des formats divers (Word, JSON, HTML, ...). Par exemple, pour les gestionnaires de base de données le gabarit par défaut permettra d’extraire l’ensemble du document complété.
+* <strong>Les (output) templates </strong> : gabarits d’extraction ; c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un <strong>document</strong> dans des formats divers (Word, JSON, HTML, ...). Par exemple, pour les gestionnaires de base de données un des gabarits faut permettra d’extraire l’ensemble du document complété.
 
 <h2><strong>WORKFLOW</h2></strong><a id="workflow"></a><br>
 
@@ -91,31 +91,41 @@ Le mieux est de choisir "Questionnaire Report", qui est d'ailleurs celui qui est
 
 <img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/136822515-45e4a09e-9cec-471d-9d25-7d0e8fccbf85.png">
 
-
-
-![image](https://user-images.githubusercontent.com/19286219/115886841-9f7ce200-a451-11eb-881a-5adc397d6546.png)
-
-![image](https://user-images.githubusercontent.com/60437839/120227753-12942800-c24a-11eb-9c24-dbaf69d7d8ba.png)
-
 <h2><strong>CREER UN DOCUMENT</h2></strong><br>
-Choisir le menu 
+Choisir le menu <img width="100" alt="document_menu" src="https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png" >
 
-![image](https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png)![image](https://user-images.githubusercontent.com/19286219/115886934-b4597580-a451-11eb-8171-0dcf8e057c92.png)
+<img width="1000" alt="document_create" src="https://user-images.githubusercontent.com/47455219/136913045-99cb87fc-ef18-48db-a81c-a6377c4a8a59.png" >
 
-![image](https://user-images.githubusercontent.com/60437839/120228066-b1b91f80-c24a-11eb-926c-dfeba883eb6a.png)
+puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » : 
 
-puis « Create ». Votre document est maintenant disponible dans votre environnement « Projet » : <br><br>
-![image](https://user-images.githubusercontent.com/60437839/120228238-052b6d80-c24b-11eb-8521-746a8c415e9c.png)
+<img width="1000" alt="document_create" src="https://user-images.githubusercontent.com/47455219/136913336-8995b998-b466-4d1f-bab1-e52597b72e42.png" >
 
 <h2><strong> PARTAGER UN PROJET OU UN DOCUMENT</h2></strong><a id="partager"></a><br>
-Choisir l'onglet PROJET ou DOCUMENT, puis selectionner le projet ou le document que vous voulez partager.
-Pour accéder aux options du menu "SHARE", appuyez sur le bouton en haut à droite. 
 
-![SHARE-BUTTON](https://user-images.githubusercontent.com/84018042/134765728-b02acf41-dd3a-4d58-9b2c-84b63edc91a7.jpg)
+Choisir l'onglet PROJET ou DOCUMENT, puis selectionner le projet ou le document que vous voulez partager. Pour accéder aux options du menu "SHARE", appuyez sur le bouton en haut à droite. <img width="100" alt="document_create" src="https://user-images.githubusercontent.com/84018042/134765728-b02acf41-dd3a-4d58-9b2c-84b63edc91a7.jpg" >
 
-Vous avez ensuite la possibilité de partager vos projets avec vos collègues, qu'ils disposent ou non d'un compte utilisateur DSW. En outre, vous pouvez également définir leurs droits d'accès et leur permettre de visualiser, de modifier ou même de s'approprier le projet.
+Vous avez ensuite la possibilité de partager vos projets avec vos collègues selon plusieurs modalités. D'abord vous avez la possibilité d'inviter des personnes spécifiques et leur attribuer des droits en ordre croissant, de lecteur à propriétaire. 
 
-![SHARE-PROJECT](https://user-images.githubusercontent.com/84018042/134766569-926abe31-489b-4fce-ba96-3da81f9a56c2.jpg)
+<img width="1000" alt="share_button" src="https://user-images.githubusercontent.com/47455219/136914418-bfac4240-e979-4acf-947c-6b5990c75c5a.png" >
+
+<img width="1000" alt="share_a" src="https://user-images.githubusercontent.com/47455219/136914666-fd9f3abb-4877-4ae1-973c-37dcab41618f.png" >
+
+Ensuite, vous pouvez choisir de refuser tout accès aux utilisateurs connectés à DSW 
+
+<img width="1000" alt="share_b_n" src="https://user-images.githubusercontent.com/47455219/136915640-7276a7ea-fb9d-49aa-8084-090a97619de0.png" >
+
+ou au contraire leur attribuer certains droits
+
+<img width="1000" alt="share_b_y" src="https://user-images.githubusercontent.com/47455219/136916584-a5dcab8a-fb47-4e87-8812-8411016a21e8.png" >
+
+Finalement les mêmes possibilités sont offertes aux utilisateurs non connectés à DSW et qui ont accès au questionnaire par le lien d'un lien public partagé :
+
+<img width="1000" alt="share_c" src="https://user-images.githubusercontent.com/47455219/136917529-aa042c5e-d9d9-4fdc-a1a8-c701f6bc995b.png" >
+
+Notons plusieurs choses :
+* le choix des droits à attribuer est aussi une fonction des paramètres globaux que les administrateurs choisissent au départ ; il se pourrait donc que ce choix soit plus restreint que celui démontré ici
+* vous êtes tenus à respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partager les projets
+* finalement, notez que le partage des documents issus du projet est soumis aux droits afférents au projet (donc sous votre contrôle comme vu ci-dessus)
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
 
