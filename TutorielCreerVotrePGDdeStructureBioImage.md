@@ -55,11 +55,12 @@ Il existe 4 rôles différents pour un profil utilisateur :<br>
 <h2><strong>CREER UN PROJET</h2></strong><br>
 
 Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png">, Vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW :
-<img width="200" alt="dsw" src="https://user-images.githubusercontent.com/19286219/115886496-457c1c80-a451-11eb-9d30-aaa4eacc82c1.png">
+
+<img width="200" alt="dsw" src="https://user-images.githubusercontent.com/47455219/136909954-7ea3617f-5f8f-4196-b9ce-9c7d9057f42e.png">
 
 Pour remplir votre propre questionnaire, procédez comme suit : <img width="200" alt="remplir_a" src="https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png">, puis <img width="100" alt="remplir_b" src="https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png">
 
-<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « knowledge model » : "Modèle de PGD structure pour la bioimagerie" (utilisez la version la plus récente i.e. avec le numéro de version le plus élevé):
+<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « knowledge model » : "Modèle de PGD structure pour la bioimagerie" (utilisez la version la plus récente c'est à dire avec le numéro de version le plus élevé) :
 
 <img width="1000" alt="create_project" src="https://user-images.githubusercontent.com/47455219/136813471-a4652b90-123d-4100-a717-164ff4d42798.png">
 
