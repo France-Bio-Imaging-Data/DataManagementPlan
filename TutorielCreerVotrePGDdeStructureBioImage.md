@@ -18,7 +18,7 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions :<br>  
 <br>  
 
-* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/7824c1c4-616d-4571-84e1-9f279ec31857), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/f5378aa4-93d5-41d4-9223-db99754d6e29). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'option disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi 
+* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/5e79e680-d902-42da-ab51-87d4cdba5b19), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/e323f698-7d2b-4e31-b9f5-ef2701be77a3). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'option disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi 
 
 <img width="1000" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/136796837-cde03c3f-5b73-4e03-8a91-4aaa5af3c571.png">
 
