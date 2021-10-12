@@ -125,7 +125,7 @@ Finalement les mêmes possibilités sont offertes aux utilisateurs non connecté
 
 Notons plusieurs choses :
 * le choix des droits à attribuer est aussi une fonction des paramètres globaux que les administrateurs choisissent au départ ; il se pourrait donc que ce choix soit plus restreint que celui démontré ici
-* vous êtes tenus à respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partager les projets
+* vous êtes tenus à respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partagez les projets
 * finalement, notez que le partage des documents issus du projet est soumis aux droits afférents au projet (donc sous votre contrôle comme vu ci-dessus)
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
