@@ -20,11 +20,11 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 
 * Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/5e79e680-d902-42da-ab51-87d4cdba5b19), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/e323f698-7d2b-4e31-b9f5-ef2701be77a3). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'option disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi 
 
-<img width="1000" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/136796837-cde03c3f-5b73-4e03-8a91-4aaa5af3c571.png">
+<img width="600" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/136796837-cde03c3f-5b73-4e03-8a91-4aaa5af3c571.png">
 
 En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé :
 
-<img width="1000" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/136796880-358e5e3d-949b-46dd-b3ea-6fb0f075353d.png">
+<img width="600" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/136796880-358e5e3d-949b-46dd-b3ea-6fb0f075353d.png">
 
 Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire.
 
@@ -32,7 +32,7 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 <h2><strong>TERMINOLOGIE</h2></strong><a id="terminologie"></a><br> 
 
-<img width="1000" alt="Presentationrelationdocuments" src="https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png">
+<img width="600" alt="Presentationrelationdocuments" src="https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png">
 
 * <strong>Les « knowledge models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
 
@@ -62,7 +62,7 @@ Pour remplir votre propre questionnaire, procédez comme suit : <img width="200"
 
 <strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « knowledge model » : "Modèle de PGD structure pour la bioimagerie" (utilisez la version la plus récente c'est à dire avec le numéro de version le plus élevé) :
 
-<img width="1000" alt="create_project" src="https://user-images.githubusercontent.com/47455219/136813471-a4652b90-123d-4100-a717-164ff4d42798.png">
+<img width="600" alt="create_project" src="https://user-images.githubusercontent.com/47455219/136813471-a4652b90-123d-4100-a717-164ff4d42798.png">
 
 Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">
 
@@ -73,11 +73,11 @@ La première chose est de le peupler par les questions désirées. Plus claireme
 
 Il va falloir ajouter les questions. Typiquement, une seule itération (c'est à dire, la question est de cardinalité 1) est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures seient concernées) :
 
-<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815619-b9d393e7-9900-4108-8732-603f0d899e7d.png">
+<img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815619-b9d393e7-9900-4108-8732-603f0d899e7d.png">
 
 Par contre, il est probable que le PGD décrive plusieurs produits de la recherche :
 
-<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
+<img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
 
 Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que nécéssaire. Ceci se repétera pour toute question. Vous êtes prêts à completer le questionnaire. 
 
@@ -85,21 +85,21 @@ Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que né
 
 Lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction, c'est à dire le « Output Template » ; ceci est nécéssaire si vous voulez soit "preview" le questionnaire, soit en créer un document. Pour cela, il faut renseigner l'onglet "Settings" du questionnaire :
 
-<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136821413-befa9fab-bd1b-4903-be6c-4455ab515bf4.png">
+<img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136821413-befa9fab-bd1b-4903-be6c-4455ab515bf4.png">
 
 Le mieux est de choisir "Questionnaire Report", qui est d'ailleurs celui qui est recommandé :
 
-<img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/136822515-45e4a09e-9cec-471d-9d25-7d0e8fccbf85.png">
+<img width="600" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/136822515-45e4a09e-9cec-471d-9d25-7d0e8fccbf85.png">
 
 <h2><strong>CREER UN DOCUMENT</h2></strong><br>
 
 Choisir le menu <img width="100" alt="document_menu" src="https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png" > puis « Create ».
 
-<img width="1000" alt="document_create" src="https://user-images.githubusercontent.com/47455219/136913045-99cb87fc-ef18-48db-a81c-a6377c4a8a59.png" >
+<img width="600" alt="document_create" src="https://user-images.githubusercontent.com/47455219/136913045-99cb87fc-ef18-48db-a81c-a6377c4a8a59.png" >
 
 Votre document est maintenant disponible dans votre environnement « Projet » : 
 
-<img width="1000" alt="document_create" src="https://user-images.githubusercontent.com/47455219/136913336-8995b998-b466-4d1f-bab1-e52597b72e42.png" >
+<img width="600" alt="document_create" src="https://user-images.githubusercontent.com/47455219/136913336-8995b998-b466-4d1f-bab1-e52597b72e42.png" >
 
 <h2><strong> PARTAGER UN PROJET</h2></strong><a id="partager"></a><br>
 
@@ -107,21 +107,21 @@ Choisir l'onglet PROJET, puis selectionner le projet ou le document que vous vou
 
 Vous avez ensuite la possibilité de partager vos projets avec vos collègues selon plusieurs modalités. D'abord vous avez la possibilité d'inviter des personnes spécifiques et leur attribuer des droits en ordre croissant, de lecteur à propriétaire. 
 
-<img width="1000" alt="share_button" src="https://user-images.githubusercontent.com/47455219/136914418-bfac4240-e979-4acf-947c-6b5990c75c5a.png" >
+<img width="600" alt="share_button" src="https://user-images.githubusercontent.com/47455219/136914418-bfac4240-e979-4acf-947c-6b5990c75c5a.png" >
 
-<img width="1000" alt="share_a" src="https://user-images.githubusercontent.com/47455219/136914666-fd9f3abb-4877-4ae1-973c-37dcab41618f.png" >
+<img width="600" alt="share_a" src="https://user-images.githubusercontent.com/47455219/136914666-fd9f3abb-4877-4ae1-973c-37dcab41618f.png" >
 
 Ensuite, vous pouvez choisir de refuser tout accès aux utilisateurs connectés à DSW 
 
-<img width="1000" alt="share_b_n" src="https://user-images.githubusercontent.com/47455219/136915640-7276a7ea-fb9d-49aa-8084-090a97619de0.png" >
+<img width="600" alt="share_b_n" src="https://user-images.githubusercontent.com/47455219/136915640-7276a7ea-fb9d-49aa-8084-090a97619de0.png" >
 
 ou au contraire leur attribuer certains droits
 
-<img width="1000" alt="share_b_y" src="https://user-images.githubusercontent.com/47455219/136916584-a5dcab8a-fb47-4e87-8812-8411016a21e8.png" >
+<img width="600" alt="share_b_y" src="https://user-images.githubusercontent.com/47455219/136916584-a5dcab8a-fb47-4e87-8812-8411016a21e8.png" >
 
 Finalement les mêmes possibilités sont offertes aux utilisateurs non connectés à DSW et qui ont accès au questionnaire par le lien d'un lien public partagé :
 
-<img width="1000" alt="share_c" src="https://user-images.githubusercontent.com/47455219/136917529-aa042c5e-d9d9-4fdc-a1a8-c701f6bc995b.png" >
+<img width="600" alt="share_c" src="https://user-images.githubusercontent.com/47455219/136917529-aa042c5e-d9d9-4fdc-a1a8-c701f6bc995b.png" >
 
 Notons plusieurs choses :
 * le choix des droits à attribuer est aussi une fonction des paramètres globaux que les administrateurs choisissent au départ ; il se pourrait donc que ce choix soit plus restreint que celui démontré ici
