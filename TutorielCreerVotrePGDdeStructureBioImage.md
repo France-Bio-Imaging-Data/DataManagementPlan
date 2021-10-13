@@ -79,7 +79,7 @@ Par contre, il est probable que le PGD décrive plusieurs produits de la recherc
 
 <img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
 
-Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que nécéssaire. Vous êtes prêts à completer le questionnaire. 
+Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que nécéssaire. Vous êtes prêts à compléter le questionnaire. 
 
 Notez que l'interface n'est pas toujours facile à suivre, les encadrés vous permettent de suivre l'imbrication des questions, ainsi que la numérotation des questions. 
 
@@ -126,7 +126,7 @@ Enfin, vous pouvez rendre le lien unique de votre PGD (questionnaire) complété
 <img width="600" alt="share_c" src="https://user-images.githubusercontent.com/47455219/136917529-aa042c5e-d9d9-4fdc-a1a8-c701f6bc995b.png" >
 
 Notons plusieurs choses :
-* vous êtes tenus à respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partagez les projets
+* vous êtes tenus de respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partagez les projets
 * le partage des documents issus du projet est soumis aux droits afférents au questionnaire ("project"). 
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
