@@ -71,7 +71,7 @@ La première chose est de le peupler par les questions désirées. Plus claireme
 
 <img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815048-33e403ce-3fca-4347-b848-dd92373e041d.png">
 
-Il va falloir ajouter les questions. Typiquement, une seule itération (c'est à dire, la question est de cardinalité 1) est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures seient concernées) :
+Il va falloir ajouter les questions. Typiquement, une seule itération est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures seient concernées) :
 
 <img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815619-b9d393e7-9900-4108-8732-603f0d899e7d.png">
 
@@ -79,7 +79,7 @@ Par contre, il est probable que le PGD décrive plusieurs produits de la recherc
 
 <img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
 
-Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que nécéssaire. Ceci se repétera pour toute question. Vous êtes prêts à completer le questionnaire. 
+Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant de fois que nécéssaire. Ceci se repétera pour toute question. Vous êtes prêts à compléter le questionnaire. 
 
 <h2><strong>CHOISIR LE FORMAT D'EXTRACTION</h2></strong><br>
 
@@ -105,7 +105,7 @@ Votre document est maintenant disponible dans votre environnement « Projet » :
 
 Choisir l'onglet PROJET, puis selectionner le projet ou le document que vous voulez partager. Pour accéder aux options du menu "SHARE", appuyez sur le bouton en haut à droite. <img width="100" alt="document_create" src="https://user-images.githubusercontent.com/84018042/134765728-b02acf41-dd3a-4d58-9b2c-84b63edc91a7.jpg" >
 
-Vous avez ensuite la possibilité de partager vos projets avec vos collègues selon plusieurs modalités. D'abord vous avez la possibilité d'inviter des personnes spécifiques et leur attribuer des droits en ordre croissant, de lecteur à propriétaire. 
+Vous avez ensuite la possibilité de partager vos projets avec vos collègues, qu'ils disposent ou non d'un compte utilisateur DSW. Pour vos collègues ayant créé un compte, vous avez la possibilité d'inviter des personnes spécifiques et leur attribuer des droits cumulatifs, de lecteur à propriétaire.
 
 <img width="1000" alt="share_button" src="https://user-images.githubusercontent.com/47455219/136914418-bfac4240-e979-4acf-947c-6b5990c75c5a.png" >
 
@@ -125,8 +125,8 @@ Finalement les mêmes possibilités sont offertes aux utilisateurs non connecté
 
 Notons plusieurs choses :
 * le choix des droits à attribuer est aussi une fonction des paramètres globaux que les administrateurs choisissent au départ ; il se pourrait donc que ce choix soit plus restreint que celui démontré ici
-* vous êtes tenus à respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partagez les projets
-* finalement, notez que le partage des documents issus du projet est soumis aux droits afférents au projet (donc sous votre contrôle comme vu ci-dessus)
+* vous êtes tenus de respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partagez les projets
+* finalement, notez que le partage des documents issus du projet est soumis aux droits afférents au "Projet"
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
 
