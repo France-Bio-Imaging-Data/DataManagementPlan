@@ -28,7 +28,7 @@ En cliquant sur cet onglet on accède aux fils de discussion et on peut y contri
 
 Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire. 
 
-* Vous pouvez ausi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe ["Partager"](#partager). Pour cela nous vous invitons, avec un statut de ["Researcher"](#profil) à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab. 
+* Vous pouvez aussi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe ["Partager"](#partager). Pour cela nous vous invitons, avec un statut de ["Researcher"](#profil) à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab. 
 
 <h2><strong>TERMINOLOGIE</h2></strong><a id="terminologie"></a><br> 
 
@@ -54,7 +54,7 @@ Il existe 4 rôles différents pour un profil utilisateur :<br>
    
 <h2><strong>CREER UN PROJET</h2></strong><br>
 
-Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png">, Vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW :
+Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png">, vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW :
 
 <img width="200" alt="dsw" src="https://user-images.githubusercontent.com/47455219/136909954-7ea3617f-5f8f-4196-b9ce-9c7d9057f42e.png">
 
