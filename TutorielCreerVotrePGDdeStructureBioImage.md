@@ -18,7 +18,9 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions :<br>  
 <br>  
 
-* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/5e79e680-d902-42da-ab51-87d4cdba5b19), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/e323f698-7d2b-4e31-b9f5-ef2701be77a3). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'options disponibles. Vous pourrez cependant faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi :
+
+* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/30bc910d-60c1-4a49-a77f-17db454bae91), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/98f4dc29-d729-46e1-ac0e-b9100578db19). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'options disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi : 
+
 
 <img width="600" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/136796837-cde03c3f-5b73-4e03-8a91-4aaa5af3c571.png">
 
@@ -28,7 +30,10 @@ En cliquant sur cet onglet on accède aux fils de discussion et on peut y contri
 
 Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire. 
 
-* Vous pouvez aussi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe ["Partager"](#partager). Pour cela nous vous invitons, avec un statut de ["Researcher"](#profil) à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) avec un compte gitlab. 
+
+* Vous pouvez aussi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe ["Partager"](#partager)). Pour cela nous vous invitons, avec un statut de ["Researcher"](#profil) à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) sur gitlab.
+
+
 
 <h2><strong>TERMINOLOGIE</h2></strong><a id="terminologie"></a><br> 
 
@@ -38,7 +43,8 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 * <strong>Les projets ou questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir.
 
-* <strong>Les (output) templates </strong> : gabarits d’extraction ; c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un <strong>document</strong> dans des formats divers (Word, JSON, HTML, ...) qui seront accessibles dans l'onglet "Documents" d'un questionnaire. Ces gabarits sont encore limités mais sont un outil très puissant pour ne pas rentrer plusieurs fois les mêmes informations, en permettant le reformattage sur une mise en forme attendue par différents acteurs (financeurs, gestionnaire de base de données,...).
+* <strong>Les (output) templates </strong> : gabarits d’extraction ; c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un <strong>document</strong> dans des formats divers (Word, JSON, HTML, ...) qui seront accessibles dans l'onglet "Documents" d'un questionnaire. Ces gabarits sont encore limités mais sont un outil très puissant pour ne pas rentrer plusieurs fois les mêmes informations, en permettant le reformattage sur une mise en forme attendue par différents acteurs (financeurs, gestionnaire de base de données,...). Par exemple, pour les gestionnaires de base de données un des gabarits permettra d’extraire l’ensemble du document complété.
+
 
 <h2><strong>WORKFLOW</h2></strong><a id="workflow"></a><br>
 
@@ -47,9 +53,10 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 <h2><strong>PROFILS UTILISATEURS</h2></strong><a id="profil"></a><br>
 
 Il existe 4 rôles différents pour un profil utilisateur :<br>   
-<strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Il peut uniquement consulter les questionnaires avec le lien correspondant. Il peut [s'inscrire](https://dsw.france-bioinformatique.fr/signup) pour devenir "Researcher" <br><br>
-<strong>Researcher</strong> : ce rôle est attribué par défaut aux utilisateurs après leur inscription. Seuls les administrateurs peuvent modifier ces rôles. Cet utilisateur travaille sur un projet scientifique et a les connaissances sur le projet en question. Son objectif est de créer un plan de gestion des données FAIR en créant et remplissant un questionnaire ("Project") à partir d'un modèle ("Knowledge Model").<br>    
-<strong>Data Steward</strong> : utilisateur qui a la responsabilité de concevoir les modèles de PGD ; il peut créer des « Knowledge Models ». Ceux-ci sont ensuite utilisés par les scientifiques (ayant le rôle de Researcher) pour créer le PGD avec le questionnaire.<br><br>
+
+<strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Il peut s'inscrire, se connecter ou récupérer son mot de passe si vous l'avez oublié.<br><br>
+<strong>Researcher</strong> : ce rôle est attribué par défaut aux utilisateurs après leur inscription. Nous partirons du principe que seuls les administrateurs pourront modifier ces rôles. Cet utilisateur travaille sur un projet scientifique et a les connaissances sur le projet en question. Son objectif est de créer r un plan de gestion des données FAIR.<br>    
+<strong>Data Steward</strong> : utilisateur qui a la responsabilité de concevoir les modèles de PGD ; il peut créer des « knowledge models ». Ceux-ci sont ensuite utilisés par les scientifiques (ayant le rôle de Researcher) pour créer le PGD avec le questionnaire.<br><br>
 <strong>Administrator</strong> : Il gère les paramètres généraux et dispose des privilèges les plus élevés.<br><br>  
    
 <h2><strong>CREER UN PROJET</h2></strong><br>
@@ -60,9 +67,11 @@ Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-
 
 Pour remplir votre propre questionnaire, procédez comme suit : <img width="200" alt="remplir_a" src="https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png">, puis <img width="100" alt="remplir_b" src="https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png">
 
-<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie" (utilisez la version la plus récente c'est-à-dire avec le numéro de version le plus élevé) :
 
-<img width="600" alt="create_project" src="https://user-images.githubusercontent.com/47455219/136813471-a4652b90-123d-4100-a717-164ff4d42798.png">
+<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie" (utilisez la version la plus récente c'est à dire avec le numéro de version le plus élevé) :
+
+<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/151529698-4ed2f0ea-408b-47d4-a289-56d12ec41533.png">
+
 
 Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">
 
@@ -71,7 +80,8 @@ A la création du questionnaire, aucune question n'apparait :
 
 <img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815048-33e403ce-3fca-4347-b848-dd92373e041d.png">
 
-Il va falloir ajouter les questions. Typiquement, un seul ajout ("Add") est nécéssaire comme dans le cas d'informations sur la structure, sauf si plusieurs structures sont concernées) :
+Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures soient concernées) :
+
 
 <img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815619-b9d393e7-9900-4108-8732-603f0d899e7d.png">
 
@@ -79,19 +89,20 @@ Par contre, il est probable que le PGD décrive plusieurs produits de la recherc
 
 <img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
 
-Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant que nécéssaire. Vous êtes prêts à compléter le questionnaire. 
-
-Notez que l'interface n'est pas toujours facile à suivre, les encadrés vous permettent de suivre l'imbrication des questions, ainsi que la numérotation des questions. 
+Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant de fois que nécéssaire. Ceci se repétera pour toute question. Vous êtes prêts à compléter le questionnaire. Les encadrés vous permettent de suivre l'imbrication des questions, ainsi que la numérotation des questions. 
 
 <h2><strong>CHOISIR LE FORMAT D'EXTRACTION</h2></strong><br>
 
-Lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction, c'est à dire le « Output Template » ; ceci est nécéssaire si vous voulez soit prévisualiser ("preview") le rendu du questionnaire, soit en créer un document ("Documents"). Pour cela, il faut renseigner l'onglet "Settings" du questionnaire :
+Lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction, c'est à dire le « Output Template » ; ceci est nécéssaire si vous voulez soit pre-visualiser le questionnaire, soit en créer un document. Pour cela, il faut renseigner l'onglet "Settings" du questionnaire :
+
 
 <img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136821413-befa9fab-bd1b-4903-be6c-4455ab515bf4.png">
 
 Le mieux est de choisir "Questionnaire Report", qui est d'ailleurs celui recommandé, et HTML comme format par défaut pour la prévisualisation :
 
-<img width="600" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/136822515-45e4a09e-9cec-471d-9d25-7d0e8fccbf85.png">
+
+<img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/151530466-af4881fa-729f-4f1a-b755-baf9b4ba7cf9.png">
+
 
 <h2><strong>CREER UN DOCUMENT</h2></strong><br>
 
@@ -107,7 +118,9 @@ Votre document est maintenant disponible dans votre environnement « Projet » :
 
 Choisir l'onglet PROJET, puis selectionner le projet ou le document que vous voulez partager. Pour accéder aux options du menu "SHARE", appuyez sur le bouton en haut à droite. <img width="100" alt="document_create" src="https://user-images.githubusercontent.com/84018042/134765728-b02acf41-dd3a-4d58-9b2c-84b63edc91a7.jpg" >
 
-Vous avez ensuite la possibilité de partager vos projets avec vos collègues, qu'ils disposent ou non d'un compte utilisteur DSW. Pour vos collègues ayant créer un compte, vous avez la possibilité d'inviter des personnes spécifiques et leur attribuer des droits cumulatifs, de lecteur à propriétaire. 
+
+Vous avez ensuite la possibilité de partager vos projets avec vos collègues, qu'ils disposent ou non d'un compte utilisateur DSW. Pour vos collègues ayant créé un compte, vous avez la possibilité d'inviter des personnes spécifiques et leur attribuer des droits cumulatifs, de lecteur à propriétaire.
+
 
 <img width="600" alt="share_button" src="https://user-images.githubusercontent.com/47455219/136914418-bfac4240-e979-4acf-947c-6b5990c75c5a.png" >
 
@@ -126,11 +139,14 @@ Enfin, vous pouvez rendre le lien unique de votre PGD (questionnaire) complété
 <img width="600" alt="share_c" src="https://user-images.githubusercontent.com/47455219/136917529-aa042c5e-d9d9-4fdc-a1a8-c701f6bc995b.png" >
 
 Notons plusieurs choses :
+
+* le choix des droits à attribuer est aussi une fonction des paramètres globaux que les administrateurs choisissent au départ ; il se pourrait donc que ce choix soit plus restreint que celui démontré ici
 * vous êtes tenus de respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partagez les projets
-* le partage des documents issus du projet est soumis aux droits afférents au questionnaire ("project"). 
+* finalement, notez que le partage des documents issus du projet est soumis aux droits afférents au "Projet"
+
 
 <h2><strong>QUESTIONS/REPONSES</h2></strong><a id="faq"></a><br>
 
 * <strong>Quelle différence entre les PGDs Structure et les PGDs Projets ? </strong> Un PGD structure décrit la gestion des données pour une structure, suivant les types de données. Un PGD projet est associé à un projet scientifique, à un planning de réalisation, avec des dates. Le PGD structure va servir à remplir un PGD projet qui utilise des données produites par cette structure. Plus généralement, un PGD structure aide la structure à tracer ces données du moment de leur création à leur livraison aux donneurs d'ordre, les porteurs de projets donc.
 
-* <strong>Pourquoi ne pas utiliser [DMP OPIDoR] (https://dmp.opidor.fr) ? </strong> Nous utilisons dans le cadre de ce projet DSW pour ses fonctionnalités de travail collaboratif de conception de modèles de PGD, et sa visibilité et utilisation européenne. DMP OPIDoR présente lui l'avantage d'une interface beaucoup plus simple pour l'utilisateur qui renseigne le PGD. De plus DMP OPIDoR prévoit une première distribution de son outil fin de l'année 2021 qui s'appuie sur des extractions de données automatisées, et qui permet des spécialisations de certaines rubriques. Un recrutement est en cours pour permettre des passerelles entre les deux outils ; notre but est à terme de déposer les modèles de PGD finalisés sur DMP OPIDoR. <br>
+* <strong>Pourquoi ne pas utiliser [DMP OPIDoR] (https://dmp.opidor.fr) ? </strong> Nous utilisons dans le cadre de ce projet DSW pour ses fonctionnalités de travail collaboratif de conception de modèles de PGD, et sa visibilité et utilisation européenne. DMP OPIDoR présente lui l'avantage d'une interface beaucoup plus simple pour l'utilisateur qui renseigne le PGD. De plus la dernière version de DMP OPIDoR est structurée, partiellement _machine-actionable_ (qui s'appuie sur des flux d'échange de données automatisés), et permet des spécialisations de certaines rubriques. Un recrutement est en cours pour developper des passerelles entre les deux outils ; notre but est à terme de déposer les modèles de PGD finalisés sur DMP OPIDoR. <br>
