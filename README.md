@@ -1,33 +1,26 @@
 # DataManagementPlan
 
 
-DMP templates are implemented in  [Data Stewarship Wizard](https://ds-wizard.org/); once they have reached a sufficient maturity, they will be setup on [DMP OPIDoR](https://dmp.opidor.fr).
+DMP templates and questionnaires are implemented in [Data Stewarship Wizard](https://ds-wizard.org/). There is work under way to make the templates interoperable with [DMP OPIDoR](https://dmp.opidor.fr) to allow them to be imported in that tool.
 
-There will be two outcomes: the first one is a DMP template model for FBI and affiliated facilities. The second are the guidelines and recommandations that guide users in filling the DMP.
-A tutorial (in french) is available in this repository.
+There will be two outcomes: the first one is a DMP template for FBI and affiliated facilities. The second are the guidelines and recommandations to help users in filling the DMP.
+A tutorial (in French) is available in this [repository](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/TutorielCreerVotrePGDdeStructureBioImage.md).
 
-Organisation of the project: 
 
-Questionnaire: read only until mi-february and last fixing/completion:
-https://dswc.fairwiki.france-bioinformatique.fr/projects/d4e0a3ae-75cc-4178-80bf-d5ff3090aa42
-
-Document can then be generated with different format (it could be ANR template after alignment, or any other template) 
-https://dswc.fairwiki.france-bioinformatique.fr/projects/d4e0a3ae-75cc-4178-80bf-d5ff3090aa42/documents
-
-Comment on recommandations/fields and  report issues on this questionnaire here:
+To post issues and questions Comment on recommandations/fields and  report issues on this questionnaire here:
 https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues
 
  
 
-Contributors so far:
+Contributors:
 
 Faisal Beckouche EMBRC,
 Frédéric Brau Univ-Nice,
 Christophe Bruley CEA,
 Jean-François Dufayard CIRAD,
-Frédéric de Lamotte INRAe,
+Frédéric de Lamotte INRAE,
 Paulette Lieby IFB,
 Perrine Paul-Gilloteaux FBI, 
-Jean Salamero FBI 
+Jean Salamero FBI.
 
 
