@@ -54,10 +54,10 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 Il existe 4 rôles différents pour un profil utilisateur :<br>   
 
-<strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Il peut s'inscrire, se connecter ou récupérer son mot de passe si vous l'avez oublié.<br><br>
+<strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Elle/il peut s'inscrire, se connecter ou récupérer son mot de passe si vous l'avez oublié.<br><br>
 <strong>Researcher</strong> : ce rôle est attribué par défaut aux utilisateurs après leur inscription. Nous partirons du principe que seuls les administrateurs pourront modifier ces rôles. Cet utilisateur travaille sur un projet scientifique et a les connaissances sur le projet en question. Son objectif est de créer r un plan de gestion des données FAIR.<br>    
 <strong>Data Steward</strong> : utilisateur qui a la responsabilité de concevoir les modèles de PGD ; il peut créer des « knowledge models ». Ceux-ci sont ensuite utilisés par les scientifiques (ayant le rôle de Researcher) pour créer le PGD avec le questionnaire.<br><br>
-<strong>Administrator</strong> : Il gère les paramètres généraux et dispose des privilèges les plus élevés.<br><br>  
+<strong>Administrator</strong> : elle/il gère les paramètres généraux et dispose des privilèges les plus élevés.<br><br>  
    
 <h2><strong>CREER UN PROJET</h2></strong><br>
 
@@ -70,7 +70,7 @@ Pour remplir votre propre questionnaire, procédez comme suit : <img width="200"
 
 <strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie" (utilisez la version la plus récente c'est à dire avec le numéro de version le plus élevé) :
 
-<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/151529698-4ed2f0ea-408b-47d4-a289-56d12ec41533.png">
+<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/161218048-c7100c2a-e970-4443-af3d-ee86105b534b.png">
 
 
 Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">
@@ -101,14 +101,14 @@ Lors du remplissage du questionnaire vous pouvez à tout moment choisir le forma
 Le mieux est de choisir "Questionnaire Report", qui est d'ailleurs celui recommandé, et HTML comme format par défaut pour la prévisualisation :
 
 
-<img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/151530466-af4881fa-729f-4f1a-b755-baf9b4ba7cf9.png">
+<img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/161218557-a891e4f2-dd28-4103-8328-7e284e88cb77.png">
 
 
 <h2><strong>CREER UN DOCUMENT</h2></strong><br>
 
-Choisir le menu <img width="100" alt="document_menu" src="https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png" > puis « Create ».
+Choisir le menu <img width="100" alt="document_menu" src="https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png"> puis « Create ».
 
-<img width="600" alt="document_create" src="https://user-images.githubusercontent.com/47455219/136913045-99cb87fc-ef18-48db-a81c-a6377c4a8a59.png" >
+<img width="600" alt="document_create" src="https://user-images.githubusercontent.com/47455219/161220486-7c619c5f-df3c-4c1d-b5fc-0756edadb983.png" >
 
 Votre document est maintenant disponible dans votre environnement « Projet » : 
 
