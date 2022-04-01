@@ -100,8 +100,11 @@ Lors du remplissage du questionnaire vous pouvez à tout moment choisir le forma
 
 Le mieux est de choisir "Questionnaire Report", qui est d'ailleurs celui recommandé, et HTML comme format par défaut pour la prévisualisation :
 
-
 <img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/161218557-a891e4f2-dd28-4103-8328-7e284e88cb77.png">
+
+Un autre gabarit d'extraction qui peut se relever interessant, est 'User Friendly KM Insight' qui vous permet de voir un déroulé complet de la hiérarchie des questions, mais attention, sans les réponses : 
+
+<img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/161231880-461856a7-7706-4bcc-a266-5e64a6fc6591.png">
 
 
 <h2><strong>CREER UN DOCUMENT</h2></strong><br>
