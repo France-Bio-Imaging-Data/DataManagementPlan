@@ -7,7 +7,7 @@ There will be two outcomes: the first one is a DMP template for FBI and affiliat
 A tutorial (in French) is available in this [repository](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/TutorielCreerVotrePGDdeStructureBioImage.md).
 
 
-To post issues and questions Comment on recommandations/fields and  report issues on this questionnaire [here](https://gitlab.com/ifb-elixirfr/fair/gt2-is1-mudis4ls/documents/-/issues).
+To post issues and questions Comment on recommandations/fields and  report issues on this questionnaire [here](https://gitlab.com/ifb-elixirfr/fair/gt2-is1-mudis4ls/gt2/-/issues).
 
  
 
