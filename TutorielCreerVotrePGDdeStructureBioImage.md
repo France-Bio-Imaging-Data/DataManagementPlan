@@ -100,22 +100,23 @@ Lors du remplissage du questionnaire vous pouvez à tout moment choisir le forma
 
 Le mieux est de choisir "Questionnaire Report", qui est d'ailleurs celui recommandé, et HTML comme format par défaut pour la prévisualisation :
 
-<img width="600" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/161218557-a891e4f2-dd28-4103-8328-7e284e88cb77.png">
+<img width="600" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/167566069-ed675397-a310-4179-99c0-6fa6d358a94b.png">
+
 
 Un autre gabarit d'extraction qui peut se relever interessant, est 'Insight' qui vous permet de voir un déroulé complet de la hiérarchie des questions, avec les réponses si elles sont présentes :  
 
-<img width="600" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/167565341-6faade98-fe08-4777-85ec-c5596de9ffb2.png">
+<img width="600" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/167565958-021f1342-d0d7-4d99-8e2d-81d6d7644a64.png">
 
 
 <h2><strong>CREER UN DOCUMENT</h2></strong><br>
 
 Choisir le menu <img width="100" alt="document_menu" src="https://user-images.githubusercontent.com/19286219/115886914-b0c5ee80-a451-11eb-9f47-1f11efb9d600.png"> puis « Create ».
 
-<img width="600" alt="document_create" src="https://user-images.githubusercontent.com/47455219/161220486-7c619c5f-df3c-4c1d-b5fc-0756edadb983.png" >
+<img width="600" alt="document_create" src="https://user-images.githubusercontent.com/47455219/167566612-81edda1f-84fd-4b02-9b44-11fbb0d31fe0.png" >
 
 Votre document est maintenant disponible dans votre environnement « Projet » : 
 
-<img width="600" alt="document_create" src="https://user-images.githubusercontent.com/47455219/136913336-8995b998-b466-4d1f-bab1-e52597b72e42.png" >
+<img width="600" alt="document_create" src="https://user-images.githubusercontent.com/47455219/167566995-84703ae0-779d-4940-af45-e5f020a91706.png" >
 
 <h2><strong> PARTAGER UN PROJET</h2></strong><a id="partager"></a><br>
 
