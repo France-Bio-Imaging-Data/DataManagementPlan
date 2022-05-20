@@ -68,7 +68,7 @@ Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-
 Pour remplir votre propre questionnaire, procédez comme suit : <img width="200" alt="remplir_a" src="https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png">, puis <img width="100" alt="remplir_b" src="https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png">
 
 
-<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie" (utilisez la version la plus récente c'est à dire avec le numéro de version le plus élevé) :
+<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie" (pour l'heure, utilisez la version V1.3.10 comme indiqué : les versions ultérieures ne sont encore que des ébauches) :
 
 <img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/161218048-c7100c2a-e970-4443-af3d-ee86105b534b.png">
 
