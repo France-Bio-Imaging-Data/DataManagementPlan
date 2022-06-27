@@ -5,7 +5,7 @@ Dans le but de vous faciliter la moisson de ces informations, un projet de « PG
 
 Cette initiative à destination des usagers de votre structure facilitera d'une part la communication autour de votre gestion de données, et d'autre part la conception des PGDs projets. En effet, cela permettra à terme que les champs idoines du PGD projet soient automatiquement renseignés par les informations déjà glanées en amont. Par exemple, s'il s'agit du PGD d'un projet émargeant à votre structure, l'utilisateur remplissant son PGD pourra trouver des recommandations et certains champs préremplis pour les données d'imagerie générées au sein de votre structure, et pourra le compléter à terme avec le PGD d'autres structures pour d'autres types de données.
 
-Nous vous proposons de tester et nous donner votre avis sur le questionnaire générique, dédié à l'imagerie, destiné à moissonner ces informations en entrée puis de générer des documents à façon en utilisant des « Templates » d’extraction. <br><br>
+Nous vous proposons de tester et nous donner votre avis sur le questionnaire générique, dédié à l'imagerie, destiné à moissonner ces informations en entrée puis de générer des documents à façon en utilisant des « Templates » ou gabarits d’extraction. <br><br>
 
 [Comment contribuer?](#contribuer)<br> 
 [Terminologie](#terminologie)<br> 
@@ -19,14 +19,14 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 <br>  
 
 
-* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/30bc910d-60c1-4a49-a77f-17db454bae91), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/98f4dc29-d729-46e1-ac0e-b9100578db19). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'options disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi : 
+* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/d1b4abf4-9b7f-45d0-9450-79b010b51187), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/aee67ccc-6eaa-4cd7-acc4-f6300c0e25b9). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'options disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi : 
 
 
-<img width="600" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/136796837-cde03c3f-5b73-4e03-8a91-4aaa5af3c571.png">
+<img width="600" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/175924330-48ba6b97-7177-4df5-9584-792bf9bbed26.png">
 
 En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé :
 
-<img width="600" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/136796880-358e5e3d-949b-46dd-b3ea-6fb0f075353d.png">
+<img width="600" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/175924491-a5185cfb-7675-4938-a179-e50c8a96e040.png">
 
 Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire. 
 
