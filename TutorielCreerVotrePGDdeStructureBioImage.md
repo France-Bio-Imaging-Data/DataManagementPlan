@@ -2,7 +2,7 @@ Chers collègues,
 
 Vous avez mis en place une base de données d’images dans votre structure en ayant conscience que cela permet d’augmenter la traçabilité des données de la recherche en répondant de façon implicite au [concept FAIR](https://www.go-fair.org/fair-principles/), soit « Facile à découvrir, Accessible, Interopérable, Réutilisable ». Ce concept est l’un des piliers de la Science Ouverte. La mise en place d'un Plan de Gestion de Données associé à votre structure (PGD de structure) est la formalisation du processus de gestion de vos  données décrivant les moyens permettant de les rendre visibles, accessibles, et réutilisables quel que soit le demandeur.
 Dans le but de vous faciliter la moisson de ces informations, un projet de « PGD structure bioimagerie », porté par et réalisé conjointement avec les Infrastructures Nationales en Biologie Santé (INBS) « France-BioImaging » (FBI), « Institut Français de Bioinformatique » (IFB), et « le Centre National De Ressources Biologiques Marines » (EMBRC-France), ainsi que l'Université Côte d'Azur, est en cours d’élaboration.
-
+<kbd>
 Cette initiative à destination des usagers de votre structure facilitera d'une part la communication autour de votre gestion de données, et d'autre part la conception des PGDs projets. En effet, cela permettra à terme que les champs idoines du PGD projet soient automatiquement renseignés par les informations déjà glanées en amont. Par exemple, s'il s'agit du PGD d'un projet émargeant à votre structure, l'utilisateur remplissant son PGD pourra trouver des recommandations et certains champs préremplis pour les données d'imagerie générées au sein de votre structure, et pourra le compléter à terme avec le PGD d'autres structures pour d'autres types de données.
 
 Nous vous proposons de tester et nous donner votre avis sur le questionnaire générique, dédié à l'imagerie, destiné à moissonner ces informations en entrée puis de générer des documents à façon en utilisant des « Templates » ou gabarits d’extraction. <br><br>
@@ -22,22 +22,22 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 * Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/d1b4abf4-9b7f-45d0-9450-79b010b51187), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/aee67ccc-6eaa-4cd7-acc4-f6300c0e25b9). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'options disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi : 
 
 
-<img width="1000" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/175924330-48ba6b97-7177-4df5-9584-792bf9bbed26.png">
+<kbd><img width="1000" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/175924330-48ba6b97-7177-4df5-9584-792bf9bbed26.png"></kbd>
 
 En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé :
 
-<img width="1000" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/175924491-a5185cfb-7675-4938-a179-e50c8a96e040.png">
+<kbd><img width="1000" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/175924491-a5185cfb-7675-4938-a179-e50c8a96e040.png"><kbd>
 
-Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à accéder à votre compte pour que les développeurs puisse revenir vers vous si nécessaire. 
+Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à accéder à votre compte pour que les développeurs puisse revenir vers vous<kbd> si nécessaire. 
 
 
-* Vous pouvez aussi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe ["Partager"](#partager)). Pour cela nous vous invitons, avec un statut de ["Researcher"](#profil) à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/gt2-is1-mudis4ls/gt2/-/issues) sur gitlab.
+* Vous pouvez aussi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut<kbd> sauf si vous décidez de les partager, voir le paragraphe ["Partager"](#partager)). Pour cela nous vous invitons, avec un statut de ["Researcher"](#profil) à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/gt2-is1-mudis4ls/gt2/-/issues) sur gitlab.
 
 
 
 <h2><strong>TERMINOLOGIE</strong></h2><a id="terminologie"></a><br> 
 
-<img width="600" alt="Presentationrelationdocuments" src="https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png">
+<kbd><img width="600" alt="Presentationrelationdocuments" src="https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png"><kbd>
 
 * <strong>Les « Knowledge Models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
 
@@ -48,7 +48,7 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 <h2><strong>WORKFLOW</strong></h2><a id="workflow"></a><br>
 
-<img width="700" alt="DSW Workflow-03" src="https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png">
+<kbd><img width="700" alt="DSW Workflow-03" src="https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png"><kbd>
 
 <h2><strong>PROFILS UTILISATEURS</strong></h2><a id="profil"></a><br>
 
@@ -63,43 +63,65 @@ Il existe 4 rôles différents pour un profil utilisateur :<br>
 
 Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png">, vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW :
 
-<img width="200" alt="dsw" src="https://user-images.githubusercontent.com/47455219/136909954-7ea3617f-5f8f-4196-b9ce-9c7d9057f42e.png">
+<kbd><img width="200" alt="dsw" src="https://user-images.githubusercontent.com/47455219/136909954-7ea3617f-5f8f-4196-b9ce-9c7d9057f42e.png"><kbd>
 
 Pour remplir votre propre questionnaire, procédez comme suit : <img width="200" alt="remplir_a" src="https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png">, puis <img width="100" alt="remplir_b" src="https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png">
 
 
 <strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie". La dernière version du « Knowledge Model » s'affichera automatiquement :
 
-<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176402267-36b346d9-1e37-4052-b950-1a5e1cb2f951.png">
+<kbd><img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176402267-36b346d9-1e37-4052-b950-1a5e1cb2f951.png"><kbd>
 
 Au 29/06/22 nous en sommes à la version 1.4.8, néanmoins notez que les montées en version vont être nombreuses, dont certaines assez rapprochées, au cours des mois suivants. 
 
 Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">. Par défaut, uniquement les projets auxquels vous avez accès seront listés :
 
-<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176413787-e3eb2faa-ca71-4b81-bda7-08961f82586d.png">
+<kbd><img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176413787-e3eb2faa-ca71-4b81-bda7-08961f82586d.png"><kbd>
 
 <h2><strong>REMPLISSAGE DU QUESTIONNAIRE</strong></h2><br>
 A la création du questionnaire, aucune question n'apparait :
 
-<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402558-68f13846-d9b9-494a-8905-5822136ea916.png">
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402558-68f13846-d9b9-494a-8905-5822136ea916.png"><kbd>
 
 Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures soient concernées) :
 
-<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402637-11cffbed-69eb-4db5-be1f-c4cb279045b7.png">
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402637-11cffbed-69eb-4db5-be1f-c4cb279045b7.png"><kbd>
 
-Par contre, il est probable que le PGD décrive plusieurs produits de la recherche : les questions les concernant sont organisés d'une manière spécifique pour minimiser autant que faire se peut les doubles saisies. Au niveau de hiérachie le plus haut, on retrouve deux questions, 'Les produits de la recherche' et 'Description des produits de la recherche'. Ces deux questions ont des objectifs différents.
+Par contre, il est probable que le PGD décrive plusieurs produits de la recherche : les questions les concernant sont organisés d'une manière spécifique pour minimiser autant que faire se peut les doubles saisies. Au niveau de hiérarchie la plus haute, on retrouve deux questions, 'Les produits de la recherche' et 'Description des produits de la recherche'. Ces deux questions ont des objectifs différents.
 
-<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176418892-82dc50b6-fdcd-44d7-8d57-993569f570b0.png">
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176418892-82dc50b6-fdcd-44d7-8d57-993569f570b0.png"><kbd>
 
-<h3><strong>Question <i>Les produits de la recherche</i></strong></h3><br>
+Une autre vue de cette même hiérarchie est donnée ici 
 
-Le but de cette question est uniquement de recenser <em>tous</em> les produits de la recherche : pour chacun d'entre eux il sera nécessaire d'ajouter un bloc de sous-questions, dont le but est de recueillir le nom/étiquette/label, l'identifiant (si déjà attribué/connu), et une description succinte. En particulier le nom/étiquette/label qui sera utilisé plus tard dans la suite du questionnaire pour indiquer que les réponses concernent le produit de la recherche connu par ce nom/étiquette/labels.  
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176451033-b7f85c62-540e-4543-b2da-7ca9af25e12f.png"></kbd>
 
+   <h3 id="liste_produits"><strong>Question <i>Les produits de la recherche</i></strong></h3><br>
+
+Le but de cette question est uniquement de recenser <em>tous</em> les produits de la recherche : pour chacun d'entre eux il sera nécessaire d'ajouter un bloc de questions dont le but est de recueillir le <a id="nom_label"> nom/étiquette/label</a>, l'identifiant (si déjà attribué/connu), et une description succinte. En particulier le nom/étiquette/label qui sera utilisé plus tard dans la suite du questionnaire pour permettre de lier des réponses spécifiques aux produits de la recherche concernées par celles-ci.  
+
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176451337-9ff75e58-953e-47cf-824c-b16e77e5074c.png"><kbd>
 
 <h3><strong>Question <i>Description des produits de la recherche</i></strong></h3><br>
 
-Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant de fois que nécéssaire. Ceci se repétera pour toute question. Vous êtes prêts à compléter le questionnaire. Les encadrés vous permettent de suivre l'imbrication des questions, ainsi que la numérotation des questions. 
+Ici il suffit d'ajouter un seul bloc de questions :
 
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176451377-3cd6793b-e917-43fc-8606-c30a9b798d1b.png"><kbd>
+
+Ces questions (six en tout) vont permettre la description détaillée des produits de la recherche listés <a href="#liste_produits"> plus haut</a>. Chacune de ces questions se décline elle même comme un bloc de questions dont la première vous demandera de préciser quels produits de la recherche sont concernés par les réponses qui vont suivre :  
+   
+<kbd><img id="liste_produits_sections" width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176465156-78feddef-a165-42f6-8d4b-8cc6ee138af9.png"><kbd>
+
+Cela implique deux choses :  
+   
+1. Les produits de la recherche doivent être reférencés de manière consistante à travers le PGD, d'oú cette mention de <a href="#nom_label">nom/étiquette/label</a> qui est va servir à identifier de manière unique le produit de la recherche. Cela sera nécessaire lorsque le PGD sera lu/traité par des machines.
+   
+2. Il faudra créer autant de blocs de réponses que nécessité par la diversité des réponses possibles : en d'autres termes, si tous les produits de la recherche se décrivent de la même manière, un seul bloc de réponses suffira et tous les produits de la recherche seront listés <a href=#liste_produits_sections> ici </a> (en réalité, il suffira d'indiquer "tous" en lieu de la liste complète).
+   
+Cette manière de faire un peu lourde est rendue nécessaire car pour l'heure DSW ne permet pas la création d'une liste déroulante qui puisse être insérée en lieu et place de cette <a href=#liste_produits_sections> question </a>.
+   
+Finalement, notons que la deuxième question se décline d'une manière un peu différente, mais néanmoins claire.
+
+   
 <h2><strong>CHOISIR LE FORMAT D'EXTRACTION</strong></h2><br>
 
 Lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction, c'est à dire le « Output Template » ; ceci est nécéssaire si vous voulez soit pre-visualiser le questionnaire, soit en créer un document. Pour cela, il faut renseigner l'onglet "Settings" du questionnaire :
