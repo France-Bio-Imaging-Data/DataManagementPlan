@@ -22,16 +22,16 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 * Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/d1b4abf4-9b7f-45d0-9450-79b010b51187), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/aee67ccc-6eaa-4cd7-acc4-f6300c0e25b9). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'options disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi : 
 
 
-<img width="600" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/175924330-48ba6b97-7177-4df5-9584-792bf9bbed26.png">
+<img width="1000" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/175924330-48ba6b97-7177-4df5-9584-792bf9bbed26.png">
 
 En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé :
 
-<img width="600" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/175924491-a5185cfb-7675-4938-a179-e50c8a96e040.png">
+<img width="1000" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/175924491-a5185cfb-7675-4938-a179-e50c8a96e040.png">
 
-Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à signer pour que les développeurs puisse revenir vers vous si nécessaire. 
+Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à accéder à votre compte pour que les développeurs puisse revenir vers vous si nécessaire. 
 
 
-* Vous pouvez aussi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe ["Partager"](#partager)). Pour cela nous vous invitons, avec un statut de ["Researcher"](#profil) à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/madmp-bioimage/-/issues) sur gitlab.
+* Vous pouvez aussi tester l'outil en y apportant les réponses pour votre structure (qui seront privées par défaut sauf si vous décidez de les partager, voir le paragraphe ["Partager"](#partager)). Pour cela nous vous invitons, avec un statut de ["Researcher"](#profil) à suivre le workflow proposé ci-dessous qui vous permettra de créer, de compléter et d'exporter votre propre PGD de structure. Pour pouvoir éditer votre propre questionnaire vierge, il vous faut [créer un compte sous l'application Data Stewardship Wizard (DSW)](https://dsw.france-bioinformatique.fr/signup). Vous pourrez également utiliser la fonctionnalité de commentaires sur les questions décrites ci-dessus, ou [émettre des suggestions générales](https://gitlab.com/ifb-elixirfr/fair/gt2-is1-mudis4ls/gt2/-/issues) sur gitlab.
 
 
 
@@ -54,9 +54,9 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 Il existe 4 rôles différents pour un profil utilisateur :<br>   
 
-<strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Elle/il peut s'inscrire, se connecter ou récupérer son mot de passe si vous l'avez oublié.<br><br>
-<strong>Researcher</strong> : ce rôle est attribué par défaut aux utilisateurs après leur inscription. Nous partirons du principe que seuls les administrateurs pourront modifier ces rôles. Cet utilisateur travaille sur un projet scientifique et a les connaissances sur le projet en question. Son objectif est de créer r un plan de gestion des données FAIR.<br>    
-<strong>Data Steward</strong> : utilisateur qui a la responsabilité de concevoir les modèles de PGD ; il peut créer des « knowledge models ». Ceux-ci sont ensuite utilisés par les scientifiques (ayant le rôle de Researcher) pour créer le PGD avec le questionnaire.<br><br>
+<strong>Anonymous</strong> : utilisateur de DSW qui n'est pas encore connecté. Elle/il peut s'inscrire, se connecter ou récupérer son mot de passe si oublié.<br><br>
+<strong>Researcher</strong> : ce rôle est attribué par défaut aux utilisateurs après leur inscription. Nous partirons du principe que seuls les administrateurs pourront modifier ces rôles. Cet utilisateur travaille sur un projet scientifique et a les connaissances sur le projet en question. Son objectif est de créer un plan de gestion des données FAIR.<br>    
+<strong>Data Steward</strong> : utilisateur qui a la responsabilité de concevoir les modèles de PGD ; elle/il peut créer des « knowledge models ». Ceux-ci sont ensuite utilisés par les scientifiques (ayant le rôle de Researcher) pour créer le PGD avec le questionnaire.<br><br>
 <strong>Administrator</strong> : elle/il gère les paramètres généraux et dispose des privilèges les plus élevés.<br><br>  
    
 <h2><strong>CREER UN PROJET</h2></strong><br>
@@ -68,26 +68,30 @@ Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-
 Pour remplir votre propre questionnaire, procédez comme suit : <img width="200" alt="remplir_a" src="https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png">, puis <img width="100" alt="remplir_b" src="https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png">
 
 
-<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie" (pour l'heure, utilisez la version V1.3.10 comme indiqué : les versions ultérieures ne sont encore que des ébauches) :
+<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie". La dernière version du « Knowledge Model » s'affichera automatiquement :
 
-<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/161218048-c7100c2a-e970-4443-af3d-ee86105b534b.png">
+<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176402267-36b346d9-1e37-4052-b950-1a5e1cb2f951.png">
 
+Au 29/06/22 nous en sommes à la version 1.4.8, néanmoins notez que les montées en version vont être nombreuses, peut-être rapides, au cours des mois suivants. 
 
 Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">
+
+<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176402200-55c0c75a-d620-4200-8994-e1a56b61600b.png">
+
 
 <h2><strong>REMPLISSAGE DU QUESTIONNAIRE</h2></strong><br>
 A la création du questionnaire, aucune question n'apparait :
 
-<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815048-33e403ce-3fca-4347-b848-dd92373e041d.png">
+<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402558-68f13846-d9b9-494a-8905-5822136ea916.png">
 
 Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures soient concernées) :
 
 
-<img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815619-b9d393e7-9900-4108-8732-603f0d899e7d.png">
+<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402637-11cffbed-69eb-4db5-be1f-c4cb279045b7.png">
 
 Par contre, il est probable que le PGD décrive plusieurs produits de la recherche :
 
-<img width="600" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
+<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
 
 Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant de fois que nécéssaire. Ceci se repétera pour toute question. Vous êtes prêts à compléter le questionnaire. Les encadrés vous permettent de suivre l'imbrication des questions, ainsi que la numérotation des questions. 
 
