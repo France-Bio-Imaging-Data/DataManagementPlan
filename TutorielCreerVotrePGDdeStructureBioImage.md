@@ -14,7 +14,7 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 [Partager](#partager)<br> 
 [Questions-Réponses](#faq)<br> 
 
-<h2><strong> COMMENT CONTRIBUER?</h2></strong><a id="contribuer"></a><br> 
+<h2><strong> COMMENT CONTRIBUER ?</strong></h2><a id="contribuer"></a><br> 
 Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions :<br>  
 <br>  
 
@@ -35,7 +35,7 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 
 
-<h2><strong>TERMINOLOGIE</h2></strong><a id="terminologie"></a><br> 
+<h2><strong>TERMINOLOGIE</strong></h2><a id="terminologie"></a><br> 
 
 <img width="600" alt="Presentationrelationdocuments" src="https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png">
 
@@ -46,11 +46,11 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 * <strong>Les (output) templates </strong> : gabarits d’extraction ; c'est à dire une mise en forme et une sélection des champs du questionnaire pour en produire un <strong>document</strong> dans des formats divers (Word, JSON, HTML, ...) qui seront accessibles dans l'onglet "Documents" d'un questionnaire. Ces gabarits sont encore limités mais sont un outil très puissant pour ne pas rentrer plusieurs fois les mêmes informations, en permettant le reformattage sur une mise en forme attendue par différents acteurs (financeurs, gestionnaire de base de données,...). Par exemple, pour les gestionnaires de base de données un des gabarits permettra d’extraire l’ensemble du document complété.
 
 
-<h2><strong>WORKFLOW</h2></strong><a id="workflow"></a><br>
+<h2><strong>WORKFLOW</strong></h2><a id="workflow"></a><br>
 
 <img width="700" alt="DSW Workflow-03" src="https://user-images.githubusercontent.com/84018042/117858359-1c032380-b28e-11eb-94ec-167659eaa82c.png">
 
-<h2><strong>PROFILS UTILISATEURS</h2></strong><a id="profil"></a><br>
+<h2><strong>PROFILS UTILISATEURS</strong></h2><a id="profil"></a><br>
 
 Il existe 4 rôles différents pour un profil utilisateur :<br>   
 
@@ -59,7 +59,7 @@ Il existe 4 rôles différents pour un profil utilisateur :<br>
 <strong>Data Steward</strong> : utilisateur qui a la responsabilité de concevoir les modèles de PGD ; elle/il peut créer des « knowledge models ». Ceux-ci sont ensuite utilisés par les scientifiques (ayant le rôle de Researcher) pour créer le PGD avec le questionnaire.<br><br>
 <strong>Administrator</strong> : elle/il gère les paramètres généraux et dispose des privilèges les plus élevés.<br><br>  
    
-<h2><strong>CREER UN PROJET</h2></strong><br>
+<h2><strong>CREER UN PROJET</strong></h2><br>
 
 Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-images.githubusercontent.com/19286219/115886454-3b5a1e00-a451-11eb-97f9-542e76f85d6d.png">, vous pouvez utiliser l’ensemble des fonctionnalités de l’outil DSW :
 
@@ -72,30 +72,35 @@ Pour remplir votre propre questionnaire, procédez comme suit : <img width="200"
 
 <img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176402267-36b346d9-1e37-4052-b950-1a5e1cb2f951.png">
 
-Au 29/06/22 nous en sommes à la version 1.4.8, néanmoins notez que les montées en version vont être nombreuses, peut-être rapides, au cours des mois suivants. 
+Au 29/06/22 nous en sommes à la version 1.4.8, néanmoins notez que les montées en version vont être nombreuses, dont certaines assez rapprochées, au cours des mois suivants. 
 
-Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">
+Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">. Par défaut, uniquement les projets auxquels vous avez accès seront listés :
 
-<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176402200-55c0c75a-d620-4200-8994-e1a56b61600b.png">
+<img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/176413787-e3eb2faa-ca71-4b81-bda7-08961f82586d.png">
 
-
-<h2><strong>REMPLISSAGE DU QUESTIONNAIRE</h2></strong><br>
+<h2><strong>REMPLISSAGE DU QUESTIONNAIRE</strong></h2><br>
 A la création du questionnaire, aucune question n'apparait :
 
 <img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402558-68f13846-d9b9-494a-8905-5822136ea916.png">
 
 Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures soient concernées) :
 
-
 <img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402637-11cffbed-69eb-4db5-be1f-c4cb279045b7.png">
 
-Par contre, il est probable que le PGD décrive plusieurs produits de la recherche :
+Par contre, il est probable que le PGD décrive plusieurs produits de la recherche : les questions les concernant sont organisés d'une manière spécifique pour minimiser autant que faire se peut les doubles saisies. Au niveau de hiérachie le plus haut, on retrouve deux questions, 'Les produits de la recherche' et 'Description des produits de la recherche'. Ces deux questions ont des objectifs différents.
 
-<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/136815599-6338d468-2c64-46da-ab3b-02f5764f3424.png">
+<img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176418892-82dc50b6-fdcd-44d7-8d57-993569f570b0.png">
+
+<h3><strong>Question <i>Les produits de la recherche</i></strong></h3><br>
+
+Le but de cette question est uniquement de recenser <em>tous</em> les produits de la recherche : pour chacun d'entre eux il sera nécessaire d'ajouter un bloc de sous-questions, dont le but est de recueillir le nom/étiquette/label, l'identifiant (si déjà attribué/connu), et une description succinte. En particulier le nom/étiquette/label qui sera utilisé plus tard dans la suite du questionnaire pour indiquer que les réponses concernent le produit de la recherche connu par ce nom/étiquette/labels.  
+
+
+<h3><strong>Question <i>Description des produits de la recherche</i></strong></h3><br>
 
 Dans ce cas, il faudra ajouter un block "Produit de la recherche" autant de fois que nécéssaire. Ceci se repétera pour toute question. Vous êtes prêts à compléter le questionnaire. Les encadrés vous permettent de suivre l'imbrication des questions, ainsi que la numérotation des questions. 
 
-<h2><strong>CHOISIR LE FORMAT D'EXTRACTION</h2></strong><br>
+<h2><strong>CHOISIR LE FORMAT D'EXTRACTION</strong></h2><br>
 
 Lors du remplissage du questionnaire vous pouvez à tout moment choisir le format d’extraction, c'est à dire le « Output Template » ; ceci est nécéssaire si vous voulez soit pre-visualiser le questionnaire, soit en créer un document. Pour cela, il faut renseigner l'onglet "Settings" du questionnaire :
 
