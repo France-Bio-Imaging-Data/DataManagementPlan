@@ -176,8 +176,8 @@ Enfin, vous pouvez rendre le lien unique de votre PGD (questionnaire) complété
 
 Notons plusieurs choses :
 
-* le choix des droits à attribuer est aussi une fonction des paramètres globaux que les administrateurs choisissent au départ ; il se pourrait donc que ce choix soit plus restreint que celui démontré ici
-* vous êtes tenus de respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partagez les projets
+* le choix des droits à attribuer est aussi une fonction des paramètres globaux que les administrateurs choisissent au départ ; il se pourrait donc que ce choix soit plus restreint que celui démontré ici,
+* vous êtes tenus de respecter les droits à la protection des données personnelles et donc il vous incombe de veiller à la manière dont vous partagez les projets,
 * finalement, notez que le partage des documents issus du projet est soumis aux droits afférents au "Projet".
 
 
@@ -185,4 +185,4 @@ Notons plusieurs choses :
 
 * <strong>Quelle différence entre les PGDs Structure et les PGDs Projets ? </strong> Un PGD structure décrit la gestion des données pour une structure, suivant les types de données. Un PGD projet est associé à un projet scientifique, à un planning de réalisation, avec des dates. Le PGD structure va servir à remplir un PGD projet qui utilise des données produites par cette structure. Plus généralement, un PGD structure aide la structure à tracer ces données du moment de leur création à leur livraison aux donneurs d'ordre, les porteurs de projets donc.
 
-* <strong>Pourquoi ne pas utiliser [DMP OPIDoR] (https://dmp.opidor.fr) ? </strong> Nous utilisons dans le cadre de ce projet DSW pour ses fonctionnalités de travail collaboratif de conception de modèles de PGD, et sa visibilité et utilisation européenne. DMP OPIDoR présente lui l'avantage d'une interface beaucoup plus simple pour l'utilisateur qui renseigne le PGD. De plus DMP OPIDoR, puis la version V3.0, présente un PGD structuré, partiellement _machine-actionable_ (qui s'appuie sur des flux d'échange de données automatisés), et qui permet des spécialisations de certaines rubriques. Un recrutement est en cours pour developper des passerelles entre les deux outils ; notre but est à terme de déposer les modèles de PGD finalisés sur DMP OPIDoR. <br>
+* <strong>Pourquoi ne pas utiliser [DMP OPIDoR] (https://dmp.opidor.fr) ? </strong> Nous utilisons dans le cadre de ce projet DSW pour ses fonctionnalités de travail collaboratif de conception de modèles de PGD, et sa visibilité et utilisation européenne. DMP OPIDoR présente lui l'avantage d'une interface beaucoup plus simple pour l'utilisateur qui renseigne le PGD. De plus DMP OPIDoR, depuis la version V3.0, présente un PGD structuré, partiellement _machine-actionable_ (qui s'appuie sur des flux d'échange de données automatisés), et qui permet des spécialisations de certaines rubriques. Un recrutement est en cours pour developper des passerelles entre les deux outils ; notre but est à terme de déposer les modèles de PGD finalisés sur DMP OPIDoR. <br>
