@@ -23,3 +23,6 @@ Perrine Paul-Gilloteaux FBI,
 Jean Salamero FBI.
 
 
+# Manual migration of some FBI projects
+
+Please refer to this [page](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/MigrationManuelleVersV1.4.15.md). Author: Paulette Lieby IFB.
