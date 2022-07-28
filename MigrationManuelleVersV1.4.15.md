@@ -27,7 +27,7 @@ Ensuite, un (grand) effort a été fait pour rationaliser les questions et surto
 ### Qu'est une migration 'automatisée' ?
 
 Dans la liste des projets, on peut voir des projets suivis de l'onglet <img width="100" alt="migrate" src="https://user-images.githubusercontent.com/47455219/181510045-067b31cd-85f5-4634-9e26-4c5841abdc7b.png"> comme ici 
-
+A remplir: un référent technique gestion des données par noeud FBI
 <kbd><img width="1000" alt="après_migration" src="https://user-images.githubusercontent.com/47455219/181509216-ae568cbb-fe87-423d-b85c-fcb6bf2a5de6.png"></kbd>
 
 <br/>
@@ -37,11 +37,11 @@ Bien sûr, en ce qui nous concerne ici, l'objet est précisément de ne pas suiv
 
 ### À partir de quelle version de la trame FBI est-il possible d'opérer une migration automatisée ?
 
-À partir de la version V1.4.8+ la migration automatisée est possible : mais notons, à l'exception des projets qui ont été migrés manuellement, il ne reste aucun projet 'Plateforme France Bio Imaging' basé sur une version antécédente à V1.4.15.
+À partir de la version V1.4.8+ la migration automatisée est possible avec une perte de données réduite : mais notons, que à l'exception des projets qui ont été migrés manuellement, il ne reste aucun projet 'Plateforme France Bio Imaging' basé sur une version antécédente à V1.4.15.
 
 ### Y-a-t'il eu perte de données lors de cette migration manuelle ?
 
-Sans doute, mais j'espère que les dégats sont minimaux ; j'ai fait du mieux que j'ai pu, mais forcément  Vous êtes donc encouragés à reviser la version migrée ; bien sûr toutes mes excuses pour les inconvénients rencontrés.
+Sans doute, mais j'espère que les dégats sont minimaux ; j'ai fait du mieux que j'ai pu pour saisir les données appropriées. Vous êtes donc encouragés à reviser la version migrée ; bien sûr je m'en excuse d'avance.
 
 ### Y aura-t-il une autre restructuration de la trame qui soit aussi destructive ?
 
@@ -54,21 +54,21 @@ Comme noté dans la bannière d'accueil du site, il est *vital* que vous cloniez
 
 ### La trame FBI [V1.4.15](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.4.15)
 
-Quelques caractérisques :
-* Certaines redondances ont été éliminées : en particulier pour les contributeurs, et les produits de la recherche. Pour ce faire a été mise en œuvre une imitation de liste déroulantes ; pour plus de détail voir le [tutoriel](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/TutorielCreerVotrePGDdeStructureBioImage.md) ;
-* Beaucoup de choix ont été transformés en choix multiples, suite à une forte demande d'utilisateurs
+Quelques caractérisques :A remplir: un référent technique gestion des données par noeud FBI
+* Certaines redondances ont été éliminées : en particulier pour les contributeurs et les produits de la recherche. Pour ce faire a été mise en œuvre une imitation de liste déroulantes ; pour plus de détail voir le [tutoriel](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/TutorielCreerVotrePGDdeStructureBioImage.md).
+* Beaucoup de choix ont été transformés en choix multiples, suite à une forte demande d'utilisateurs.
 
 ### Le futur de la trame FBI
 
 Les montées en version de la trame seront rapprochées et nombreuses cette deuxième moité de l'année 2022. Les objectifs sont 
 * d'améliorer l'ergonomie et la fluidité des questions,
-* d'intégrer des questions concernant des dommaines en dehors de la bioimagerie,
+* d'intégrer des questions concernant des domaines en dehors de la bioimagerie,
 * de limiter autant que faire se peut la nécéssité de saisir du texte (pour le remplacer par des choix).
 
 ### Finalement
 
 * Vous pouvez effacer vos projets d'avant la migration manuelle si vous êtes satisfaits du résultat de celle-ci ;
-* À l'avenir, tout nouveau projet basé sur la trame FBI sera (forcément) basé sur une verion V1.4.15+...
-* Voir le [tutoriel](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/TutorielCreerVotrePGDdeStructureBioImage.md) pour une description 
+* À l'avenir, tout nouveau projet basé sur la trame FBI sera (forcément) basé sur une version V1.4.15+...
+* N'oubliez pas le [tutoriel](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/TutorielCreerVotrePGDdeStructureBioImage.md) pour vous guider dans le remplissage du PGD ; 
 * Pour tous commentaires et questions, vous pouvez vous adresser à paulette.lieby@france-bioinformatique.fr
 
