@@ -25,10 +25,12 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 
 <kbd><img width="1000" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/175924330-48ba6b97-7177-4df5-9584-792bf9bbed26.png"></kbd>
 
+<br/>
 En cliquant sur cet onglet on accède aux fils de discussion et on peut y contribuer. Il est aussi possible de créer un fil de discussion pour chaque question en cliquant sur les bulles qui s'affichent à coté de leur intitulé :
 
 <kbd><img width="1000" alt="Comments.b" src="https://user-images.githubusercontent.com/47455219/175924491-a5185cfb-7675-4938-a179-e50c8a96e040.png"></kbd>
 
+<br/>
 Les fils de discussion montreront l'historique de le conversation ; il est aussi possible de consulter les discussions résolues. Votre nom ne sera pas affiché donc n'hésitez pas à accéder à votre compte pour que les développeurs puisse revenir vers vous si nécessaire. 
 
 
@@ -40,6 +42,7 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 
 <kbd><img width="600" alt="Presentationrelationdocuments" src="https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png"></kbd>
 
+<br/>
 * <strong>Les « Knowledge Models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
 
 * <strong>Les projets ou questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir.
@@ -75,6 +78,7 @@ Pour remplir votre propre questionnaire, procédez comme suit : <img width="200"
 
 <kbd><img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/181456150-df1bc19c-e88c-402a-9f21-5a2ba81c4a26.png"></kbd>
 
+<br/>
 Au 28/07/22 nous en sommes à la version 1.4.15, néanmoins notez que les montées en version vont être nombreuses, dont certaines assez rapprochées, au cours des mois suivants. 
 
 Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">. Par défaut, uniquement les projets auxquels vous avez accès seront listés :
@@ -101,6 +105,7 @@ Cette question se retrouve sous le chapitre 'Informations générales' :
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181468321-70a8e47e-f9fd-41f8-af3e-e77fde1af8a1.png"></kbd>
 
+<br/>
 Il est probable que le PGD décrive plusieurs personnes ou entités impliquées dans la gestion des données : la question 'Personnes et/ou entités [...]' a pour objectif de recenser, et décrire, ces contributeurs. Pour chacun d'eux il sera nécessaire d'ajouter un bloc de questions dont l'un des buts est de recueillir son <a id="nom_entite"> nom </a>. Dans la suite du questionnaire les contributeurs et les rôles seront associés  par le biais d'une référence à ce <a href="#nom_entite">nom</a> : DSW ne permet pas (encore) la création d'une liste déroulante qui listerait les contributeurs, il faudra donc renseigner ce nom manuellement. Il en découle que les contributeurs doivent être reférencés de manière consistante à travers le PGD, cela sera nécessaire lorsque le PGD sera lu/traité par des machines.
 
 
