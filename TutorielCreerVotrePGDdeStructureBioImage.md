@@ -43,6 +43,7 @@ Les fils de discussion montreront l'historique de le conversation ; il est aussi
 <kbd><img width="600" alt="Presentationrelationdocuments" src="https://user-images.githubusercontent.com/19286219/125417057-026b8898-b603-4e70-beae-bb91004a1bae.png"></kbd>
 
 <br/>
+
 * <strong>Les « Knowledge Models » (KM)</strong> : formats pré-établis de questionnaires vides. Base de connaissances à partir de laquelle un questionnaire est généré. Identifié par un KM ID. Il peut être personnalisé/publié/exporté/importé.
 
 * <strong>Les projets ou questionnaires </strong> : représentation d'un KM sous la forme d'un formulaire à remplir.
@@ -89,7 +90,7 @@ Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="
 <h2><strong>REMPLISSAGE DU QUESTIONNAIRE</strong></h2><br>
 A la création du questionnaire, aucune question n'apparait :
 
-<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402558-68f13846-d9b9-494a-8905-5822136ea916.png"></kbd>
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181480174-950c17cb-06cd-4532-8345-906feab79f7d.png"></kbd>
 
 <br/>
 Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures soient concernées) :
@@ -99,20 +100,20 @@ Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération e
 <br/>
  <h3 id="liste_contributeurs"><strong>Question <i>Personnes et/ou entités assumant des rôles et responsabilités qui sont pertinents à la gestion des données</i></strong></h3><br>
 
-Cette question se retrouve sous le chapitre 'Informations générales' : 
+Cette question est la suivante dans le chapitre 'Informations générales' : 
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181477814-6a769ef6-f445-4e61-97c8-7e895b0f22e7.png"></kbd>
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181468321-70a8e47e-f9fd-41f8-af3e-e77fde1af8a1.png"></kbd>
 
 <br/>
-Il est probable que le PGD décrive plusieurs personnes ou entités impliquées dans la gestion des données : la question 'Personnes et/ou entités [...]' a pour objectif de recenser, et décrire, ces contributeurs. Pour chacun d'eux il sera nécessaire d'ajouter un bloc de questions dont l'un des buts est de recueillir son <a id="nom_entite"> nom </a>. Dans la suite du questionnaire les contributeurs et les rôles seront associés  par le biais d'une référence à ce <a href="#nom_entite">nom</a> : DSW ne permet pas (encore) la création d'une liste déroulante qui listerait les contributeurs, il faudra donc renseigner ce nom manuellement. Il en découle que les contributeurs doivent être reférencés de manière consistante à travers le PGD, cela sera nécessaire lorsque le PGD sera lu/traité par des machines.
+Il est probable que le PGD décrive plusieurs personnes ou entités impliquées dans la gestion des données : la question 'Personnes et/ou entités [...]' a pour objectif de recenser, et décrire, ces contributeurs. Pour chacun d'eux il sera nécessaire d'ajouter un bloc de questions dont l'un des buts est de recueillir le <a id="nom_entite"> nom </a> du contributeur. Dans la suite du questionnaire les contributeurs et les rôles seront associés  par le biais d'une référence à ce <a href="#nom_entite">nom</a> : DSW ne permet pas (encore) la création d'une liste déroulante qui listerait les contributeurs, il faudra donc renseigner ce nom manuellement. Il en découle que les contributeurs doivent être reférencés de manière consistante à travers le PGD, cela sera nécessaire lorsque le PGD sera lu/traité par des machines.
 
 
 <br/>
    <h3 id="liste_produits"><strong>Question <i>Les produits de la recherche</i></strong></h3><br>
    
-De même que pour les contributeurs, il est probable que le PGD décrive plusieurs produits de la recherche : les questions les concernant sont organisés d'une manière spécifique pour minimiser autant que faire se peut les doubles saisies. Au niveau supérieur de la hiérarchie, on retrouve deux questions, 'Les produits de la recherche' et 'Description des produits de la recherche'. Ces deux questions ont des objectifs différents.
+De même que pour les contributeurs, il est probable que le PGD décrive plusieurs produits de la recherche : les questions les concernant sont organisées d'une manière spécifique pour minimiser autant que faire se peut les doubles saisies. Au niveau supérieur de la hiérarchie, on retrouve deux questions, 'Les produits de la recherche' et 'Description des produits de la recherche'. Ces deux questions ont des objectifs différents.
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176418892-82dc50b6-fdcd-44d7-8d57-993569f570b0.png"></kbd>
 
@@ -122,7 +123,7 @@ Une autre vue de cette même hiérarchie est donnée ici
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176451033-b7f85c62-540e-4543-b2da-7ca9af25e12f.png"></kbd>
 
 <br/>
-Le but de cette question est uniquement de recenser <em>tous</em> les produits de la recherche : pour chacun d'entre eux il sera nécessaire d'ajouter un bloc de questions dont le but est de recueillir le <a id="nom_label"> nom/étiquette/label</a>, l'identifiant (si déjà attribué/connu), et une description succinte. En particulier le nom/étiquette/label sera utilisé dans la suite du questionnaire pour associer les réponses aux produits de la recherche concernées par celles-ci (l'identifiant ne peut pas remplir ce rôle puisque tous les produits de la recherche n'ont pas nécéssairement d'identifiant, en particulier au début du projet). 
+L'objectif de la question 'Les produits de la recherche' est uniquement de recenser <em>tous</em> les produits de la recherche : pour chacun d'entre eux il sera nécessaire d'ajouter un bloc de questions dont le but est de recueillir le <a id="nom_label"> nom/étiquette/label</a>, l'identifiant (si déjà attribué/connu), et une description succinte. En particulier le nom/étiquette/label sera utilisé dans la suite du questionnaire pour associer les réponses aux produits de la recherche concernées par celles-ci (l'identifiant ne peut pas remplir ce rôle puisque tous les produits de la recherche n'ont pas nécéssairement d'identifiant, en particulier au début du projet). 
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181463504-76a7deb2-00da-4da9-bb5a-139c853a56b8.png"></kbd>
 
@@ -141,7 +142,7 @@ Ces questions (sept pour V1.4.15) vont guider la description détaillée des pro
 <br/>
 Cela implique deux choses :  
    
-1. Les produits de la recherche doivent être reférencés de manière consistante à travers le PGD, d'oú cette mention de <a href="#nom_label">nom/étiquette/label</a> qui est va servir à identifier de manière unique le produit de la recherche. Cela sera nécessaire lorsque le PGD sera lu/traité par des machines. Ici aussi, le reférencement se fera manuellement, en attendant que DSW déploie une solution incluant les listes déroulantes.
+1. Les produits de la recherche doivent être reférencés de manière consistante à travers le PGD, d'oú cette mention de <a href="#nom_label">nom/étiquette/label</a> qui est va servir à identifier de manière unique le produit de la recherche. Cela sera nécessaire lorsque le PGD sera lu/traité par des machines. Ici aussi, le reférencement se fera manuellement, en attendant que DSW déploie une solution avec une fonctionalité 'listes déroulantes'.
    
 2. Il faudra créer autant de blocs de réponses que nécessité par la diversité des réponses possibles : en d'autres termes, si tous les produits de la recherche se décrivent de la même manière, un seul bloc de réponses suffira et tous les produits de la recherche seront listés <a href=#liste_produits_sections> ici </a> (en réalité, il suffira d'indiquer "tous" en lieu de la liste complète).
    
