@@ -21,14 +21,14 @@ Dans les deux cas, notez la version de la trame.
 
 ### Qu'est une migration 'automatisée' ?
 
-Dans la liste des projets, l'on peut voir des projets suivis de l'onglet <img width="100" alt="migrate" src="https://user-images.githubusercontent.com/47455219/181510045-067b31cd-85f5-4634-9e26-4c5841abdc7b.png"> comme ici 
+Dans la liste des projets, on peut voir des projets suivis de l'onglet <img width="100" alt="migrate" src="https://user-images.githubusercontent.com/47455219/181510045-067b31cd-85f5-4634-9e26-4c5841abdc7b.png"> comme ici 
 
 <kbd><img width="1000" alt="après_migration" src="https://user-images.githubusercontent.com/47455219/181509216-ae568cbb-fe87-423d-b85c-fcb6bf2a5de6.png"></kbd>
 
 <br/>
 En clickant sur cet onglet, DSW nous guide alors à travers la migration du projet. L'onglet <img width="100" alt="migrate" src="https://user-images.githubusercontent.com/47455219/181510045-067b31cd-85f5-4634-9e26-4c5841abdc7b.png"> s'affiche le long du nom du projet tant qu'une version plus récente de la trame sur laquelle il est basé est présente. 
 
-Bien sûr, en ce qui nous concerne ici, l'objet est précisément de ne pas suivre ce processus ,du moins pour les versions de la trame FBI antérieures à V1.4.8 (voir plus bas).
+Bien sûr, en ce qui nous concerne ici, l'objet est précisément de ne pas suivre ce processus, du moins pour les versions de la trame FBI antérieures à V1.4.8 (voir plus bas).
 
 ### Pourquoi une migration manuelle ?
 
@@ -41,21 +41,22 @@ Ensuite, un (grand) effort a été fait pour rationaliser les questions et surto
 
 ### Y-a-t'il eu perte de données lors dette migration mauelle ?
 
-Sans doute, mais j'espère que les dégats sont minimaux ; j'ai fait du mieux que j'ai pu. Vous êtes donc encouragés à reviser la version migrée ; bien sûr toutes mes excuses pour cela.
+Sans doute, mais j'espère que les dégats sont minimaux ; j'ai fait du mieux que j'ai pu. Vous êtes donc encouragés à reviser la version migrée ; bien sûr toutes mes excuses pour les inconvénients rencontrés.
 
 ### Y aura-t-il une autre restructuration de la trame qui soit aussi destructive ?
 
-Bon, bien sûr, il n'y a pas de promesse qui tienne dans ce contexte. Mais la trame s'est consolidée et permet dès à présent  est à présent à même de s'étoffer à partir de la structure actuelle. Elle est certainement à même d'accommoder des démandes hors de la bioimagerie (travaux en cours).
-À priori donc, si perte de données il y a lors d'une migration automatisée dans le futur, elles seront minimes.
-En général, comment faire une migration automatisée ?
+Bon, bien sûr, il n'y a pas de promesse qui tienne dans ce contexte. Mais la trame s'est consolidée et est 
+
+permet dès à présent  est à présent à même de s'étoffer à partir de la structure actuelle. Elle est en bonne position pour intégrer les demandes issues de la communauté de la bioimagerie et au delà (travaux en cours).
+À priori donc, si perte de données il y a lors d'une migration automatisée dans le futur, elles seront minimes.https://gitlab.com/ifb-elixirfr/fair/gt2-is1-mudis4ls/gt2/-/issues
 
 ### Précautions à prendrer pour opérer une migration automatisée 
 
-Comme noté dans la bannière d'accueil du site, il est vital que vous cloniez le projet à migrer : car une fois migŕé, la version précédente est écrasée et irrécupérable (du moins dans la version actuelle de DSW 3.13.0).
+Comme noté dans la bannière d'accueil du site, il est vital que vous cloniez le projet à migrer : car une fois migré, la version précédente est écrasée et irrécupérable (du moins dans la version actuelle de DSW 3.13.0).
 
 ### Finalement
 
 * Vous pouvez effacer vos projets d'avant la migration manuelle si vous êtes satisfaits du résultat de celle-ci ;
 * À l'avenir, tout nouveau projet basé sur la trame FBI sera (forcément) basé sur une verion V1.4.15+...
-
+* Pour tous commentaires et questions, vous pouvez vous adresser à paulette.lieby@france-bioinformatique.fr
 
