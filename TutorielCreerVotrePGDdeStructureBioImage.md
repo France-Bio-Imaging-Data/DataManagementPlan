@@ -14,6 +14,7 @@ Nous vous proposons de tester et nous donner votre avis sur le questionnaire gé
 [Partager](#partager)<br> 
 [Questions-Réponses](#faq)<br> 
 
+<br/>
 <h2><strong> COMMENT CONTRIBUER ?</strong></h2><a id="contribuer"></a><br> 
 Pour participer à la création de ce PGD Structure productrice d'imagerie, deux propositions :<br>  
 <br>  
@@ -86,6 +87,7 @@ A la création du questionnaire, aucune question n'apparait :
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402558-68f13846-d9b9-494a-8905-5822136ea916.png"></kbd>
 
+<br/>
 Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures soient concernées) :
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402637-11cffbed-69eb-4db5-be1f-c4cb279045b7.png"></kbd>
@@ -93,7 +95,11 @@ Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération e
 <br/>
  <h3 id="liste_contributeurs"><strong>Question <i>Personnes et/ou entités assumant des rôles et responsabilités qui sont pertinents à la gestion des données</i></strong></h3><br>
 
-<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181468321-70a8e47e-f9fd-41f8-af3e-e77fde1af8a1.png)"></kbd>
+Cette question se retrouve sous le chapitre 'Informations générales' : 
+
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181477814-6a769ef6-f445-4e61-97c8-7e895b0f22e7.png"></kbd>
+
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181468321-70a8e47e-f9fd-41f8-af3e-e77fde1af8a1.png"></kbd>
 
 Il est probable que le PGD décrive plusieurs personnes ou entités impliquées dans la gestion des données : la question 'Personnes et/ou entités [...]' a pour objectif de recenser, et décrire, ces contributeurs. Pour chacun d'eux il sera nécessaire d'ajouter un bloc de questions dont l'un des buts est de recueillir son <a id="nom_entite"> nom </a>. Dans la suite du questionnaire les contributeurs et les rôles seront associés  par le biais d'une référence à ce <a href="#nom_entite">nom</a> : DSW ne permet pas (encore) la création d'une liste déroulante qui listerait les contributeurs, il faudra donc renseigner ce nom manuellement. Il en découle que les contributeurs doivent être reférencés de manière consistante à travers le PGD, cela sera nécessaire lorsque le PGD sera lu/traité par des machines.
 
@@ -105,11 +111,12 @@ De même que pour les contributeurs, il est probable que le PGD décrive plusieu
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176418892-82dc50b6-fdcd-44d7-8d57-993569f570b0.png"></kbd>
 
+<br/>
 Une autre vue de cette même hiérarchie est donnée ici 
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176451033-b7f85c62-540e-4543-b2da-7ca9af25e12f.png"></kbd>
 
-
+<br/>
 Le but de cette question est uniquement de recenser <em>tous</em> les produits de la recherche : pour chacun d'entre eux il sera nécessaire d'ajouter un bloc de questions dont le but est de recueillir le <a id="nom_label"> nom/étiquette/label</a>, l'identifiant (si déjà attribué/connu), et une description succinte. En particulier le nom/étiquette/label sera utilisé dans la suite du questionnaire pour associer les réponses aux produits de la recherche concernées par celles-ci (l'identifiant ne peut pas remplir ce rôle puisque tous les produits de la recherche n'ont pas nécéssairement d'identifiant, en particulier au début du projet). 
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181463504-76a7deb2-00da-4da9-bb5a-139c853a56b8.png"></kbd>
@@ -121,10 +128,12 @@ Pour cette question il suffit d'ajouter un seul bloc de questions :
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181464014-1d33f289-86e2-498c-8e60-c67284580bb6.png"></kbd>
 
+<br/>
 Ces questions (sept pour V1.4.15) vont guider la description détaillée des produits de la recherche listés <a href="#liste_produits"> plus haut</a>. Chacune de ces questions se décline elle même comme un bloc de questions dont la première vous demandera de préciser quels produits de la recherche sont concernés par les réponses qui vont suivre :  
    
 <kbd><img id="liste_produits_sections" width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176465156-78feddef-a165-42f6-8d4b-8cc6ee138af9.png"></kbd>
 
+<br/>
 Cela implique deux choses :  
    
 1. Les produits de la recherche doivent être reférencés de manière consistante à travers le PGD, d'oú cette mention de <a href="#nom_label">nom/étiquette/label</a> qui est va servir à identifier de manière unique le produit de la recherche. Cela sera nécessaire lorsque le PGD sera lu/traité par des machines. Ici aussi, le reférencement se fera manuellement, en attendant que DSW déploie une solution incluant les listes déroulantes.
@@ -135,7 +144,7 @@ Comme déjà mentionné plus haut, cette manière de faire un peu lourde est ren
    
 Finalement, notons que pour les question deux et trois
    
-<kbd><img id="liste_produits_sections" width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181464686-e453dc33-983e-4ced-8f38-2a2c8766cad0.png"></kbd>
+<kbd><img id="liste_produits_sections" width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181478824-3e28c5a9-be7f-45e9-9d7e-614ee07ed926.png"></kbd>
    
 la collecte de la liste des produits de la recherche associées aux réponses se décline un peu différement.
    
@@ -146,14 +155,17 @@ Lors du remplissage du questionnaire vous pouvez à tout moment choisir le forma
 
 <kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176631523-45f14f3f-bc01-42c0-90de-c1a44d36bbb9.png"></kbd>
 
+<br/>
 Le mieux est de choisir "Questionnaire Report", qui est d'ailleurs celui recommandé, et HTML comme format par défaut pour la prévisualisation :
 
 <kbd><img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/176632011-6c2627b9-4947-40da-9693-af8bdf42d027.png"></kbd>
 
+<br/>
 Un autre gabarit d'extraction qui peut se relever interessant, est 'Insight' qui vous permet de voir un déroulé complet de la hiérarchie des questions, avec les réponses si elles sont présentes :  
 
 <kbd><img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/176632547-b4ba899c-0b6e-4c43-8538-a8ef8a2c3257.png"></kbd>
 
+<br/>
 Ce gabarit met en œuvre un semblant de 'dépliage/repliage' de la hierarchie des questions, cela n'est pas parfait (nous espérons l'améliorer dans les mois qui viennent) mais il permet de palier à la difficulté de renseigner un PGD un peu long dans DSW. En voici un aperçu 
    
 <kbd><img width="1000" alt="insight_report" src="https://user-images.githubusercontent.com/47455219/176653123-10c91ca9-e495-4518-aa32-854a81d66607.png"></kbd>
@@ -165,6 +177,7 @@ Choisir le menu <img width="100" alt="document_menu" src="https://user-images.gi
 
 <kbd><img width="1000" alt="document_create" src="https://user-images.githubusercontent.com/47455219/176645354-05853371-5b63-453c-89ee-6b319c16479e.png"></kbd>
 
+<br/>
 Votre document est maintenant disponible dans votre environnement « Projet » : 
 
 <kbd><img width="1000" alt="document_create" src="https://user-images.githubusercontent.com/47455219/176645854-0da2b6e9-e404-4d67-9d77-a3fa97ffb202.png"></kbd>
@@ -181,14 +194,17 @@ Vous avez ensuite la possibilité de partager vos projets avec vos collègues, q
 
 <kbd><img width="1000" alt="share_a" src="https://user-images.githubusercontent.com/47455219/176646675-5f7b0e64-f90a-4acb-99d3-8d59a147461a.png" ></kbd>
 
+<br/>
 Ensuite, vous pouvez choisir de refuser ou d'ouvrir l' accès aux utilisateurs connectés à DSW et de leur attribuer certains droits
 
 <kbd><img width="1000" alt="share_b_n" src="https://user-images.githubusercontent.com/47455219/176650114-083519b7-d1ea-4602-89d9-a0bd5571c9f3.png" ></kbd>
 
+<br/>
 Enfin, vous pouvez rendre le lien unique de votre PGD (questionnaire) complété lisible par tout utilisateur non connecté : il faudra envoyer le lien du questionnaire à ces utilisateurs.
 
 <kbd><img width="1000" alt="share_c" src="https://user-images.githubusercontent.com/47455219/176650651-44fce06c-fea5-49b5-b243-fa2dbfb5503c.png" ></kbd>
 
+<br/>
 Notons plusieurs choses :
 
 * le choix des droits à attribuer est aussi une fonction des paramètres globaux que les administrateurs choisissent au départ ; il se pourrait donc que ce choix soit plus restreint que celui démontré ici,
