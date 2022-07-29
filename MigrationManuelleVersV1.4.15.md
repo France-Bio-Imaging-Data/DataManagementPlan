@@ -1,6 +1,7 @@
 # Migration manuelle de certains projets FBI basés sur la trame FBI [V1.3.9](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.3.9)
 
 ## Introduction
+
 Ceci concerne les utilisateurs qui ont créé et rempli des PGDs structure taggés 'Plateforme France Bio Imaging', en particulier lors des ateliers de remplissage FBI organisés par Perrine Paul-Gilloteaux durant la première moitié de 2022.
 
 À l'époque, la plupart d'entre vous avez travaillé avec la trame (ou knowledge model) en version [V1.3.9](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.3.9). Depuis ce temps,  cette trame a énormément évolué et a subit une restructuration drastique, si drastique que je (Paulette Lieby) me suis engagée à migrer ces projets manuellement : cette migration est achevée et tous vos projets sont à présent basés sur la version [V1.4.15](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.4.15).
@@ -8,6 +9,7 @@ Ceci concerne les utilisateurs qui ont créé et rempli des PGDs structure tagg�
 ## Q&A
 
 ### Oú vais-je trouver mes projets, ceux d'avant la migration, et ceux une fois la migration effectuée ?
+
 Les projets d'avant la migration se retrouvent avec un ajout dans le titre de la mention '_avant migration vers IFB:bioimage-fbi-embrc-pgd-structure-km:1.4.15_'. Par exemple 
 
 <kbd><img width="1000" alt="avant_migration" src="https://user-images.githubusercontent.com/47455219/181507047-93068898-d664-4d70-b465-ea040ee3fc2d.png"></kbd>
@@ -44,12 +46,16 @@ Sans doute, mais j'espère que les dégats sont minimaux ; j'ai fait du mieux qu
 
 ### Y aura-t-il une autre restructuration de la trame qui soit aussi destructive ?
 
-Bien sûr, il n'y a pas de promesse qui tienne dans ce contexte. Mais la trame s'est consolidée est à même d'accommoder les demandes issues de la communauté de la bioimagerie et au delà (travaux en cours).
-À priori donc, si perte de données il y a lors d'une migration automatisée dans le futur, elles seront minimes.
+Bien sûr, il n'y a pas de promesse qui tienne dans ce contexte. Mais la trame s'est consolidée et est à même de mieux accommoder les demandes issues de la communauté de la bioimagerie et au delà (travaux en cours).
+À priori donc, si perte de données il y a lors d'une migration automatisée dans le futur, elles seront minimes, mais elles ne peuvent être éliminées totalement : elles sont une conséquence directe de l'effort continu de remplacer la saisie de texte libre par celle de choix parmi des options pré-déterminés.
 
 ### Précautions à prendre pour opérer une migration automatisée 
 
 Comme noté dans la bannière d'accueil du site, il est *vital* que vous cloniez le projet à migrer : car une fois migré, la version précédente est écrasée et irrécupérable (du moins dans la version actuelle de DSW 3.13.0).
+
+### Suis je obligé.e de migrer vers des versions de trame plus récentes ?
+
+Non, pas du tout : cela dépend si la structuration vous sied. D'oú l'importance de cloner un projet avant de le migrer plus avant pour se donner le choix.
 
 ### La trame FBI [V1.4.15](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.4.15)
 
