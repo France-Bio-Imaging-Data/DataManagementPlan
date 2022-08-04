@@ -88,14 +88,21 @@ Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="
 
 <br/>
 <h2><strong>REMPLISSAGE DU QUESTIONNAIRE</strong></h2><br>
+
+D'abord notons que le remplissage du questionnaire peut-être guidé par la possibilité de naviguer parmi les différentes questions : 
+
+<kbd><img width="1000" alt="project_nav" src="https://user-images.githubusercontent.com/47455219/182881033-a8badaa5-5841-4390-935a-37b96d31066a.png"></kbd>
+
+
+<br/>
 A la création du questionnaire, aucune question n'apparait :
 
-<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/181480174-950c17cb-06cd-4532-8345-906feab79f7d.png"></kbd>
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/182877930-0b6e536f-553d-42b2-93f6-3b20ee9753fd.png"></kbd>
 
 <br/>
 Il va falloir ajouter les questions ("Add"). Typiquement, une seule itération est nécéssaire comme dans le cas d'informations sur la structure (à moins que plusieurs structures soient concernées) :
 
-<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176402637-11cffbed-69eb-4db5-be1f-c4cb279045b7.png"></kbd>
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/182878575-e1935168-fc15-4286-b24b-51c08f75245e.png"></kbd>
 
 <br/>
  <h3 id="liste_contributeurs"><strong>Question <i>Personnes et/ou entités assumant des rôles et responsabilités qui sont pertinents à la gestion des données</i></strong></h3><br>
@@ -115,7 +122,7 @@ Il est probable que le PGD décrive plusieurs personnes ou entités impliquées 
    
 De même que pour les contributeurs, il est probable que le PGD décrive plusieurs produits de la recherche : les questions les concernant sont organisées d'une manière spécifique pour minimiser autant que faire se peut les doubles saisies. Au niveau supérieur de la hiérarchie, on retrouve deux questions, 'Les produits de la recherche' et 'Description des produits de la recherche'. Ces deux questions ont des objectifs différents.
 
-<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/176418892-82dc50b6-fdcd-44d7-8d57-993569f570b0.png"></kbd>
+<kbd><img width="1000" alt="project_start" src="https://user-images.githubusercontent.com/47455219/182879381-efbb9317-7f08-40ee-8ce0-55b68c07ce9c.png"></kbd>
 
 <br/>
 Une autre vue de cette même hiérarchie est donnée ici 
@@ -172,7 +179,7 @@ Un autre gabarit d'extraction qui peut se relever interessant, est 'Insight' qui
 <kbd><img width="1000" alt="questionnaire_report" src="https://user-images.githubusercontent.com/47455219/176632547-b4ba899c-0b6e-4c43-8538-a8ef8a2c3257.png"></kbd>
 
 <br/>
-Ce gabarit met en œuvre un semblant de 'dépliage/repliage' de la hierarchie des questions, cela n'est pas parfait (nous espérons l'améliorer dans les mois qui viennent) mais il permet de palier à la difficulté de renseigner un PGD un peu long dans DSW. En voici un aperçu 
+Ce gabarit met en œuvre un semblant de 'dépliage/repliage' de la hierarchie des questions, cela n'est pas parfait (nous espérons l'améliorer dans les mois qui viennent) mais il peut permettre de palier à la difficulté de renseigner un PGD un peu long dans DSW. En voici un aperçu 
    
 <kbd><img width="1000" alt="insight_report" src="https://user-images.githubusercontent.com/47455219/176653123-10c91ca9-e495-4518-aa32-854a81d66607.png"></kbd>
 
