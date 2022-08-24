@@ -4,7 +4,7 @@
 
 Ceci concerne les utilisateurs qui ont créé et rempli des PGDs structure taggés 'Plateforme France Bio Imaging', en particulier lors des ateliers de remplissage FBI organisés par Perrine Paul-Gilloteaux durant la première moitié de 2022.
 
-À l'époque, la plupart d'entre vous avez travaillé avec la trame (ou knowledge model) en version [V1.3.9](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.3.9). Depuis ce temps,  cette trame a énormément évolué et a subit une restructuration drastique, si drastique que je (Paulette Lieby) me suis engagée à migrer ces projets manuellement : cette migration est achevée et tous vos projets sont à présent basés sur la version [V1.4.15](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.4.15).
+À l'époque, la plupart d'entre vous avez travaillé avec la trame (ou knowledge model) en version [V1.3.9](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.3.9). Depuis ce temps,  cette trame a énormément évolué et a subit une restructuration drastique, si drastique que je (Paulette Lieby) me suis engagée à migrer ces projets manuellement : cette migration est achevée et tous vos projets sont à présent basés sur la version [V1.0.0](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:pgd-structure:1.0.0) d'une trame renommée en *pgd-structure*.
 
 ## Q&A
 
