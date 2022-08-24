@@ -4,45 +4,51 @@
 
 Ceci concerne les utilisateurs qui ont créé et rempli des PGDs structure taggés 'Plateforme France Bio Imaging', en particulier lors des ateliers de remplissage FBI organisés par Perrine Paul-Gilloteaux durant la première moitié de 2022.
 
-À l'époque, la plupart d'entre vous avez travaillé avec la trame (ou knowledge model) en version [V1.3.9](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.3.9). Depuis ce temps,  cette trame a énormément évolué et a subit une restructuration drastique, si drastique que je (Paulette Lieby) me suis engagée à migrer ces projets manuellement : cette migration est achevée et tous vos projets sont à présent basés sur la version [V1.0.0](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:pgd-structure:1.0.0) d'une trame renommée en *pgd-structure*.
+À l'époque, la plupart d'entre vous avez travaillé avec la trame (ou knowledge model) _bioimage-fbi-embrc-pgd-structure-km_ en version [V1.3.9](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.3.9). Depuis ce temps,  cette trame a énormément évolué et a subit une restructuration drastique, si drastique que je (Paulette Lieby) me suis engagée à migrer ces projets manuellement : cette migration est achevée et tous vos projets sont à présent basés sur la version [V1.0.0](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:pgd-structure:1.0.0) de la trame renommée  _pgd-structure_.
 
 ## Q&A
 
 ### Oú vais-je trouver mes projets, ceux d'avant la migration, et ceux une fois la migration effectuée ?
 
-Les projets d'avant la migration se retrouvent avec un ajout dans le titre de la mention '_avant migration vers IFB:bioimage-fbi-embrc-pgd-structure-km:1.4.15_'. Par exemple 
+Les projets / questionnaires d'avant la migration se retrouvent avec un ajout dans le titre de la mention '_avant migration vers IFB:pgd-structure:1.0.0_'. Par exemple 
 
-<kbd><img width="1000" alt="avant_migration" src="https://user-images.githubusercontent.com/47455219/181507047-93068898-d664-4d70-b465-ea040ee3fc2d.png"></kbd>
+<kbd><img width="1000" alt="avant_migration" src="https://user-images.githubusercontent.com/47455219/186443575-a0be61aa-639b-4464-821c-ecd6640426d2.png"></kbd>
 
 <br/>
-Les projets migrés vers V1.4.15 se retrouvent sous leur nom original :  
-<kbd><img width="1000" alt="après_migration" src="https://user-images.githubusercontent.com/47455219/181509070-d49d3e97-1467-46e1-a48d-09974bd5f3ae.png"></kbd>
+Les projets migrés se retrouvent sous leur titre original :  
+<kbd><img width="1000" alt="après_migration" src="https://user-images.githubusercontent.com/47455219/186445512-0ed0629e-c5f1-44b5-a4d8-ae70357e57fa.png"></kbd>
 
 <br/><br/>
-Dans les deux cas, notez la version de la trame.
+Notez
+1. le changement du nom de la trame, de _bioimage-fbi-embrc-pgd-structure-km_ en _pgd-structure_
+2. le numéro de version
 
 ### Pourquoi une migration manuelle ?
 
-Parce que la migration automatisée dans DSW entraine la perte de données dans notre cas de figure précis :  ceci est dû au fait que, de V1.3.9 à V1.4.15, (presque) tous les choix simples ont été transformés en choix multiples, ce qui dans le cadre de DSW, entraine une perte des questions originales (et donc de la possiblité d'effectuer une migration automatisée).
+Parce que la migration automatisée dans DSW entraine la perte de données dans notre cas de figure précis :  ceci est dû au fait que, de _bioimage-fbi-embrc-pgd-structure-km:V1.3.9_ à _pgd-structure:V1.0.0_, (presque) tous les choix simples ont été transformés en choix multiples, ce qui dans le cadre de DSW, entraine une perte des questions originales (et donc de la possiblité d'effectuer une migration automatisée).
 Ensuite, un (grand) effort a été fait pour rationaliser les questions et réduire les redondances : de même, ce processus a impliqué la perte de certaines questions (et donc de leur réponses).
 
 ### Qu'est une migration 'automatisée' ?
 
 Dans la liste des projets, on peut voir des projets suivis de l'onglet <img width="100" alt="migrate" src="https://user-images.githubusercontent.com/47455219/181510045-067b31cd-85f5-4634-9e26-4c5841abdc7b.png"> comme ici 
 
-<kbd><img width="1000" alt="après_migration" src="https://user-images.githubusercontent.com/47455219/181509216-ae568cbb-fe87-423d-b85c-fcb6bf2a5de6.png"></kbd>
+<kbd><img width="1000" alt="après_migration" src="https://user-images.githubusercontent.com/47455219/186447816-48a1a7ce-06c9-4401-a190-5efbf09b6c6e.png"></kbd>
 
 En clickant sur cet onglet, DSW nous guide à travers la migration du projet. L'onglet <img width="100" alt="migrate" src="https://user-images.githubusercontent.com/47455219/181510045-067b31cd-85f5-4634-9e26-4c5841abdc7b.png"> s'affiche le long du nom du projet tant qu'une version plus récente de la trame sur laquelle il est basé est présente. 
 
-Bien sûr, en ce qui nous concerne ici, l'objet est précisément de ne pas suivre ce processus, du moins pour les versions de la trame FBI antérieures à V1.4.8 (voir ci-après).
+Bien sûr, en ce qui nous concerne ici, l'objet est précisément de ne pas suivre ce processus, du moins pour les versions de la trame FBI antérieures à _bioimage-fbi-embrc-pgd-structure-km:V1.4.8_ (voir ci-après).
 
 ### À partir de quelle version de la trame FBI est-il conseillé d'opérer une migration automatisée ?
 
-À partir de la version V1.4.8+ la migration automatisée est possible avec une perte de données réduite : mais notons, que à l'exception des projets qui ont été migrés manuellement, il ne reste aucun projet 'Plateforme France Bio Imaging' basé sur une version antécédente à V1.4.15.
+À partir de la version _bioimage-fbi-embrc-pgd-structure-km:V1.4.8_ la migration automatisée est possible avec une perte de données réduite : mais notons, que à l'exception des projets originaux créés lors des ateliers, il ne reste aucun projet 'Plateforme France Bio Imaging' basé sur une version antécédente à _pgd-structure:V1.0.0_ ; voir le point suivant.
+
+### Quel est la différence entre les trames _bioimage-fbi-embrc-pgd-structure-km_ et _pgd-structure_ ?
+
+_pgd-structure:V1.0.0_ est un clone de la dernière version de _bioimage-fbi-embrc-pgd-structure-km_, V1.14.17. En ce sens _pgd-structure:V1.0.0_ et toutes les versions à venir jalonnent l'évolution de la trame FBI au fil du temps ; dans ce cas présent cette évolution implique aussi un changement de nom de la trame.
 
 ### Y-a-t'il eu perte de données lors de cette migration manuelle ?
 
-Sans doute, mais j'espère que les dégats sont minimaux ; j'ai fait du mieux que j'ai pu pour saisir les données existantes. Vous êtes donc encouragés à reviser la version migrée.
+Sans doute, mais j'espère que les dégats sont minimaux ; j'ai fait du mieux que j'ai pu pour saisir les données existantes. Vous êtes donc encouragé.e.s à reviser la version migrée.
 
 ### Y aura-t-il une autre restructuration de la trame qui soit aussi destructive ?
 
@@ -57,7 +63,7 @@ Comme noté dans la bannière d'accueil du site, il est *vital* que vous cloniez
 
 Non, pas du tout : cela dépend si la structuration vous sied. D'oú l'importance de cloner un projet avant de le migrer plus avant pour se donner le choix.
 
-### La trame FBI [V1.4.15](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:bioimage-fbi-embrc-pgd-structure-km:1.4.15)
+### La trame FBI [_pgd-structure:V1.0.0_](https://dsw.france-bioinformatique.fr/knowledge-models/IFB:pgd-structure:1.0.0)
 
 Quelques caractérisques :
 * Certaines redondances ont été éliminées : en particulier pour les contributeurs et les produits de la recherche. Pour ce faire a été mise en œuvre une imitation de liste déroulantes ; pour plus de détail voir le [tutoriel](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/TutorielCreerVotrePGDdeStructureBioImage.md).
@@ -73,7 +79,7 @@ Les montées en version de la trame seront rapprochées et nombreuses cette deux
 ### Finalement
 
 * Vous pouvez effacer vos projets d'avant la migration manuelle si vous êtes satisfaits du résultat de celle-ci ;
-* À l'avenir, tout nouveau projet basé sur la trame FBI sera (forcément) basé sur une version V1.4.15+ ;
+* À l'avenir, tout nouveau projet basé sur la trame FBI sera (forcément) basé sur une version de _pgd-structure:1.0.0_+ ;
 * N'oubliez pas le [tutoriel](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/TutorielCreerVotrePGDdeStructureBioImage.md) pour vous guider dans le remplissage du PGD ; 
 * Pour tous commentaires et questions, vous pouvez vous adresser à paulette.lieby@france-bioinformatique.fr
 
