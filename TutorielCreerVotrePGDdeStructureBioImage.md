@@ -20,7 +20,7 @@ Pour participer à la création de ce PGD Structure productrice d'imagerie, deux
 <br>  
 
 
-* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/d1b4abf4-9b7f-45d0-9450-79b010b51187), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/aee67ccc-6eaa-4cd7-acc4-f6300c0e25b9). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'options disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi : 
+* Vous pouvez consulter sans être identifié [un questionnaire non éditable générique](https://dsw.france-bioinformatique.fr/projects/74f9166a-2eab-48d6-9151-3d79db86d054), et un [exemple pour une plateforme](https://dsw.france-bioinformatique.fr/projects/0e0c0156-9d72-4e47-8ac2-b91bfde6ab7d). Notez que vous ne pourrez pas remplir ce questionnaire ni voir les différentes listes d'options disponibles. Vous pourrez faire remonter vos remarques/questions en utilisant la fonctionnalité "Comments" pour soumettre vos questions/problèmes/suggestions d'améliorations. Cette fonction "Comments" est visible à la lecture du questionnaire ainsi : 
 
 
 <kbd><img width="1000" alt="Comments.a" src="https://user-images.githubusercontent.com/47455219/175924330-48ba6b97-7177-4df5-9584-792bf9bbed26.png"></kbd>
@@ -75,16 +75,16 @@ Après avoir obtenu un accès :  <img width="200" alt="acces" src="https://user-
 Pour remplir votre propre questionnaire, procédez comme suit : <img width="200" alt="remplir_a" src="https://user-images.githubusercontent.com/19286219/115886648-6d6b8000-a451-11eb-850c-357b62142269.png">, puis <img width="100" alt="remplir_b" src="https://user-images.githubusercontent.com/19286219/115886669-74928e00-a451-11eb-88f9-777cbc12be9c.png">
 
 
-<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "Modèle de PGD structure pour la bioimagerie". La dernière version du « Knowledge Model » s'affichera automatiquement :
+<strong>ALLER SUR l'ONGLET CUSTOM</strong> puis nommez votre projet comme suit "PGD Nom de votre labo ou plateforme" en utilisant le « Knowledge Model » : "PGD structure développé par l'IFB". La dernière version du « Knowledge Model » s'affichera automatiquement :
 
-<kbd><img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/181456150-df1bc19c-e88c-402a-9f21-5a2ba81c4a26.png"></kbd>
+<kbd><img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/186603788-1721a2d8-3ab6-4bda-85f6-a0953fb70d2f.png"></kbd>
 
 <br/>
-Au 28/07/22 nous en sommes à la version 1.4.15, néanmoins notez que les montées en version vont être nombreuses, dont certaines assez rapprochées, au cours des mois suivants. 
+Au 25/08/22 nous en sommes à la version 1.0.0, néanmoins notez que les montées en version vont être nombreuses, dont certaines assez rapprochées, au cours des mois suivants. 
 
 Sauvegardez ; votre projet est maintenant disponible dans <img width="200" alt="dispo" src="https://user-images.githubusercontent.com/19286219/115886735-8411d700-a451-11eb-9337-ea85e8962af3.png">. Par défaut, uniquement les projets auxquels vous avez accès seront listés :
 
-<kbd><img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/181465641-36b3d180-64f4-46c0-a39c-089c28c9c2f9.png"></kbd>
+<kbd><img width="1000" alt="create_project" src= "https://user-images.githubusercontent.com/47455219/186604435-521a37be-1b3c-4c4f-8ea1-9491bcedd7a7.png"></kbd>
 
 <br/>
 <h2><strong>REMPLISSAGE DU QUESTIONNAIRE</strong></h2><br>
