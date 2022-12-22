@@ -22,6 +22,9 @@ Paulette Lieby IFB,
 Perrine Paul-Gilloteaux FBI, 
 Jean Salamero FBI.
 
+# Specifications
+
+See [here](https://github.com/France-Bio-Imaging-Data/DataManagementPlan/blob/main/Specifications.md).
 
 # Manual migration of some FBI projects
 
