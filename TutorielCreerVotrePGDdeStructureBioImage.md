@@ -5,7 +5,7 @@ Dans le but de vous faciliter la moisson de ces informations, un projet de « PG
 
 Cette initiative à destination des usagers de votre structure facilitera d'une part la communication autour de votre gestion de données, et d'autre part la conception des PGDs projets. En effet, cela permettra à terme que les champs idoines du PGD projet soient automatiquement renseignés par les informations déjà glanées en amont. Par exemple, s'il s'agit du PGD d'un projet émargeant à votre structure, l'utilisateur remplissant son PGD pourra trouver des recommandations et certains champs préremplis pour les données d'imagerie générées au sein de votre structure, et pourra le compléter à terme avec le PGD d'autres structures pour d'autres types de données.
 
-Nous vous proposons de tester et nous donner votre avis sur le questionnaire générique, dédié à l'imagerie, destiné à moissonner ces informations en entrée puis de générer des documents à façon en utilisant des « Templates » ou gabarits d’extraction. <br><br>
+Nous vous proposons de tester et nous donner votre avis sur le questionnaire générique, dédié à l'imagerie, mais pas que, destiné à moissonner ces informations en entrée puis de générer des documents à façon en utilisant des « Templates » ou gabarits d’extraction. <br><br>
 
 [Comment contribuer?](#contribuer)<br> 
 [Terminologie](#terminologie)<br> 
